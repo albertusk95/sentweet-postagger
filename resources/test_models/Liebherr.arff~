@@ -1,0 +1,1430 @@
+relation myrel
+
+@attribute text string
+@attribute sentimentClassValue {positive, negative}
+
+@data
+'To accelerate the revitalization of Port of Maqal in Iraq, NAWAH Port Management has also invested i...', negative
+'Liebherr Ship to Shore in Southampton', negative
+'Liebherr Handler – a worthwhile investment. When it comes to material handling, you need a partne...', positive
+'We need your help! Our departments of the #Liebherr Maritime product division are searching for the ...', negative
+'Liebherr Reachstacker: Our LRS 645 has a unique design of a curve-shaped, telescopic boom which mean...', positive
+'Happy New Year, Liebherr Maritime!', positive
+'Happy new year to all our Liebherr Maritime fans here on Facebook! How do you  like  our first 2...', positive
+'Fast approaching: Developed to prevent overloads while maximising turnover - SmartGrip. Stay tuned...', positive
+'In January the first LHM for Terminal du Grand Ouest, France, arrived at the French Atlantic Coast. ...', positive
+'After a successful start for both teams, everyone is excited who will be victorious today when the #...', positive
+'Just in time for the weekend we are pleased to inform you that the popular Construction Simulator 2014...', positive
+'#work #crane #liebherr #bmw #girlpower #girlswholift 👍😁✌✌🚡 💰', positive
+'#liebherr #ltm1095 #115ton #fullboom #fulljib #lanescraneservice #golong', negative
+'#788minna403 this building has 20 units and was built in 2011, cross is 9th Street. 403 is a one bed / one bath / one parking / 555 square feet unit on the 4th floor. #views mostly of the adjacent building tops. Annoyingly it has a 24  #liebherr refrigerator with enough room for a 30 . #sanfrancisco #sfrealestate #sfrealtor #sfliving', positive
+'RT @Liebherr: Tonight the #Seleção welcomes the #Croatian team for the opening match of the #WorldCup2014 ! Who s your favorite? http://t.c…', positive
+'@HeavyLiftPFI This looks like a really great project!', positive
+'RT @MCTowercrane: Operated a brand new #Liebherr 150 EC-B #towercrane today. #great slewinggear! #nice @LH_Construction @Liebherr http://…', positive
+'@MCTowercrane @Liebherr glad you enjoyed it!', positive
+'RT @AlbanVillaume: #Liebherr #Roadshow for #Crawler #Excavators in France is already a success !http://t.co/NCCz7KVXsE @LH_Construction', positive
+'@Bouwkraan @DuraVermeer @AkzoNobel great views on a great jobsite!', positive
+'@Mining_World You re welcome, Richard. Have a great week!', positive
+'@NYCMERCEDES great job!', positive
+'@NYCMERCEDES Awesome picture!', positive
+'@JobSitePics @Bouwkraan @Liebherr @DuraVermeer what a great picture, stunning colours!', positive
+'RT @MCTowercrane: Very #smooth to drive... #Liebherr 150 EC - B #towercrane #construction @LH_Construction @Liebherr http://t.co/Jzp3Ign1xH', positive
+'@vancityhotshots @TELUSGarden @ConstructChat @constructionw @BurleyDave @SkyJacked793 Great picture!', positive
+'@LifeAmongGiants @SamsungCanada @Siemens_Energy What a great perspective!', positive
+'The LH 120 M High Rise with Lightweight Stick handling scrap metal at port of Gent in Belgium. The ...', negative
+'@NGH_doo Great line up!', positive
+'In Australia, Northern Stevedoring Services has ordered an LHM 420 for their berths in #Townsville, ...', negative
+'Port of Rotterdam, the Netherlands: this demolition of a quay is not really a martime topic, but sin...', negative
+'Liebherr ship cranes on board of the Shippan Islands. Our fan Jason has taken this nice picture at t...', positive
+'Take a look at this amazing mega grab which has a capacity of 56m³, roughly corresponding to one mil...', positive
+'Turkey - Kocaeli Port: Thanks to our fan mehmet for this great picture, showing the arrival of Ship-...', positive
+'A Happy New Year to every single one of you! Thank you so much for your support, your numerous comments...', positive
+'Under the motto  Committed to Your Success , we opened our new Sales and Service Centre at Dandenong...', positive
+'#Picture of the Month: #Demolition - Vote your favorite on #facebook #liebherr https://t.co/ut6P08f1qI', positive
+'Great video of an LR 1600/2 #crawler #crane, working on the Blue Lake hydroelectric dam in Sitka, #Alaska: https://t.co/uE3UWibknt.', positive
+'@snowdude1965 Thanks, Pat!', positive
+'@MCTowercrane Great view you got there, Maarten Claassen!', positive
+'@ghostgrinder Have a good #scrapday!', positive
+'@MarkPiekart @Liebherr nice one!!', positive
+'The #Liebherr #LR13000 #crawler #crane helping to install the legs of the #Aeolus in Bremerhaven, #Germany http://t.co/Gtl255VBgA', positive
+'Ever seen a #crane #ballet? That s your chance: 40 #dancing #Liebherr #cranes in Apsern, #vienna #Austria #incredible http://t.co/6OzSMEtyaa', positive
+'@StevenFrench88 Have fun!!!', positive
+'Welcome to the #IFAT2014 - will you be here visiting #Liebherr at hall C3, booth 243/244? #IFAT #munich #material http://t.co/kBxGmsTM2H', positive
+'@JobSitePics @setecelevacion @Liebherr An impressive picture - great job!', positive
+'@bandkbuild well, it s really a though job in these heights and conditions..', positive
+'RT @Mehmud_Rizvi: #Liebherr LR 1600 lifting a Wind Turbine Generator at FWEL, Gharo, Karachi. This is one amazing… http://t.co/b61YnGWjyr', positive
+'#prototype of #Liebherr #wheelloader, developed in #1954, #Germany. #cornerstone for modern wheel loaders! http://t.co/lBMB6xZMto', positive
+'@NGH_doo Great pic!', positive
+'@Hambrookmark @JobSitePics @Liebherr Have good week then ;)', positive
+'Hundreds of stunning photos of #Liebherr equipment at one place: Follow us on #Pinterest now: http://t.co/SjZ2DYHmvA', positive
+'The proven #LIKUFIX quick-coupling system is also available for midsize wheel loaders! #Liebherr #wheelloaders http://t.co/VI5WbuyyNQ', positive
+'@JobSitePics @MissiNewsRoom @Liebherr What a beautiful pic!', positive
+'Can t wait for the #bauma2016 to come? Then you should check this brand new clip of the #bauma2013 -enjoy! http://t.co/bmxXftVg9F #liebherr', positive
+'RT @NGH_doo: Material Handler, delivered ... #nice #amazing #perfect #industrial #scrap #metal #iron #excavator #wheel #liebherr http://t.c…', positive
+'great pic, @Hambrookmark @JobSitePics !', positive
+'RT @SER_Rental: @LH_Construction @Liebherr a lovely views in the Yorkshire Dales L566 loading trains on the @settlecarlisle railway http://…', positive
+'@AxleMatt Have a great trip then:)', positive
+'@AxleMatt And all the best to you and your wife!!', positive
+'Coming to the 2014 ISRI Convention & Exposition: The L 542 Wheel Loader at the #Liebherr booth B1 http://t.co/4GIPKvTjQk', negative
+'Job report of a #Liebherr #wheelloader L 586 in hot #slag operation: http://t.co/nJtqC1Z1O7 http://t.co/xCB9mtYxWt', positive
+'@ExpertHE impressive pic!', positive
+'@DemmasterD good to know that you like it!', positive
+'@Emerson2Hire Great picture of a #liebherr crane!! Good job!', positive
+'Six #Truck-Mounted #Concrete #pumps for the largest Concrete Pump Operator in Great #Britain #UK #PCP #Liebherr http://t.co/7CsNEwiTHR', positive
+'@SER_Rental Great picture of this L 566 in action!', positive
+'@MCTowercrane @vancityhotshots @mobile_crane @ConstructChat @604Now @Construct_PR @constructionw Absolutely - great photo!', positive
+'@JobSitePics @Liebherr Now that really is a great view!', positive
+'#Liebherr World Premiere in #Bern: The 53 K Fast-Erecting #Crane http://t.co/XAloli1b1b', positive
+'@MTCcranehire Looks great! Hope you ll enjoy every single hour with your new LTM 1040-2.1', positive
+'RT @DiggersDozers: How long before we see a demolition spec version of this @Liebherr beauty then? http://t.co/UUssI8YcKB', positive
+'#Liebherr world premiere in #Bern: The new R 926 Compact #crawler #excavator (Stage IIIB) http://t.co/pKfVZJTuOA', positive
+'We welcome you on our booth at the Construction Machinery Exhibition in #Bern : Sektor F4 Stand 004! http://t.co/5kiJxwiIdk', positive
+'@Hambrookmark Great picture - and a really great project!! Please keep us updated!', positive
+'Successful #Rallye #Dakar racing team visits #Liebherr Machines #Bulle #engine SA:http://t.co/HeJ6XQQCG9 http://t.co/apKzDxrXkI', positive
+'@JobSitePics Great shot!', positive
+'@candstyresukltd @EMRLTD ;) great shot!', positive
+'@allfields It s indeed a great clip!!! shwoing what an excavator can also do - but shouldn t be done by yourself!', positive
+'@ELAQatar @Liebherr @ELAContainer amazing project! keep us updated please!', positive
+'@candstyresukltd @EMRLTD ... or maybe the first wind-powered excavator? ;) great shot!', positive
+'#Liebherr LTM 1100-5.2 mobile #crane playing a  leading role  at the Semper Opera in Dresden, Germany: http://t.co/49K8gwFA4L', positive
+'@dmvtransports Great photo!', positive
+'RT @Liebherr: The #transport of a #liebherr R 996 sets records #mining #australia: http://t.co/jaXZQSqdDn', negative
+'RT @Liebherr: After the 2014 #Conexpo, #Liebherr confirms successes in all product areas @conexpoconagg @LH_Construction: http://t.co/PG4zG…', positive
+'@MarittaDoetter Great clip! Really looking forward to #bauma 2016!', positive
+'@goaliewoman33 Great picture!', positive
+'Thank you all for visting us at 2014 #conexpo #LasVegas #Liebherr ! We hope you have enjoyed your trip and our innovative #equipment! Cheers', positive
+'@Emerson2Hire Great lift!', positive
+'Welcome to #CONEXPO day 4! The weather is awesome - don t miss the #liebherr booth, gold lot, #2155 and the R 956! http://t.co/AWUMPHOIxj', positive
+'@JobSitePics @MammoetHolding Great picture of a great lift!', positive
+'RT @skippers37: I’ve successfully faced #MrTorque – Have you already accepted the challenge? #Liebherr https://t.co/v7yFJFtrMj', positive
+'RT @MorrowEquipment: Stop by the #Liebherr booth and pick up a free flash drive from our sales representatives on site #CONEXPO2014', positive
+'@strickmom4 :) lucky you!!! #liebherr', positive
+'How does  The Mr. Torque Challenge  work? Check it out: #Liebherr #MrTorque #CONEXPOCONAGG #CONEXPO: https://t.co/wdepCYvhol', positive
+'@snowdude1965 @JobSitePics looking amazing!!!', positive
+'RT @LH_Maritime: iF design award for #Liebherr LH 60 Litronic material handler in the category  product design  http://t.co/kV10BmCXL9 http…', positive
+'@neallybug21 Nice one! Especially the crawler crane in the background:)', positive
+'@SkyJacked793 @thenextlift Great to hear that! Thanky, guys!', positive
+'Welcome to #Conexpo #CONEXPOCONAGG Day 3! Face #MrTorque at #Liebherr booth, Gold lot #2155 !!! http://t.co/GtPCs1N67m', positive
+'That s what we love to hear! @NCSGcrane_haul @Liebherr @conexpoconagg', positive
+'Successful start for @Liebherr at 2014 #CONEXPO #Liebherr : http://t.co/uRNc5GwgN0', positive
+'@SkyJacked793 @ivortossell Oh, we feared it was the crane..if it is just the date - that s fine:)', positive
+'@DiggersDozers Thanks!', positive
+'@EQJnews @conexpoconagg @kobelco @liugong_py @BobcatCompany @Doosan @CaseCE Great!', positive
+'RT @Aggman_Therese: @LH_Construction kicks off a great start to #CONEXPOCONAGG and looks for growth in the U.S. http://t.co/vDhIHGETVh', positive
+'@rockproducts @Liebherr Great! Thanks', positive
+'Welcome to #Conexpo day 2! Step by,Gold lot, #2155 #lasvegas #liebherr! Don t miss #earthmoving #machines #excavator http://t.co/l4Fo7lV3Rg', positive
+'@NGH_doo Great shot!', positive
+'@OEMOffHighway @Liebherr @conexpoconagg Nice! Thanks!', positive
+'@Bouwkraan Great photo - very impressive!', positive
+'@DiggersDozers @Liebherr Hi these are awesome news - thanks', positive
+'Ready for #CONEXPO?And ready to face #MrTorque?Be sure to take all your #strengths with you! #CONEXPOCONAGG #Liebherr http://t.co/rS63RB1QSL', positive
+'@ChuckScoop Great to see these pictures here. We hope you are having a good day at #CONEXPO', positive
+'@NCSGcrane_haul @Liebherr @conexpoconagg That looks like a really good day! So great to hear that you liked the trip to Vegas and #Liebherr!', positive
+'Take part in the #MrTorque #Challenge! Mr.Torque is facing the first opponents #Conexpo #Liebherr #win- take part: https://t.co/19Fz57Tckm', positive
+'Welcome in Las Vegas, welcome to Conexpo 2014 - Day One! We are looking forward meeting you here! #Conexpo #liebherr #lasvegas', positive
+'RT @HardaWaqas: I’ve successfully faced #MrTorque – Have you already accepted the challenge? #Liebherr https://t.co/Yel2Lh0QMv', positive
+'@HardaWaqas Great job!', positive
+'Boxhead #scrapyard#scrapart#liebherr#crane#boxhead', negative
+'#publicviewing #zürich #worldchampionship #netherland #australia #soccer #constructionsite #liebherr #kran #switzerland #sky #beer', positive
+'Good to be back!', positive
+'#work #scraplife #scrap #liebherr #pressarelaterra', negative
+'Casual day at work #work #clay #bricks #tiles #summer #job #liebherr #924 #excavator', positive
+'Pile driving #pilebuck #drivingpile #liebherr #construction #kiewit', negative
+'Cleanin out silt pond #stmarys', negative
+'#job#hellokitty#liebherr', negative
+'The LTM350-6.1 set up and ready for the Surat Basin Energy and Mining Expo! Are you going? If so you can be taken up in a man cage by our crane. Stand OS7014/17 #nqgroup #biglift #cranes #crane #liebherr #350 #suratbasin #mining #mancage #viewfromthetop', positive
+'I hates batter piles... #london#construction#work#piledriving#liebherr#lrh100#batterpiles', negative
+'#brazil #wm2014 #liebherr #excavator #mining #worldcup', negative
+'Water-Dredger #peterthegreat #dredger #water #harbor #bremen #germany #work #men #ship #sea #engine #toy #tow #tug #boat #liebherr #bagger #netherlands #safety', positive
+'Can you combine high performance, easy mobilization and economic attributes? Yes you can! #MrTorque #CONEXPOCONAGG http://t.co/TPhfZmTv3T', positive
+'@foundationdrill Everyone starts somewhere ;) #MrTorque #CONEXPOCONAGG', positive
+'@RPA_Media @EarthmoversMag Great shot!', positive
+'#midsummer fun with #liebherr and #faun feat. #snow. #crane #mobilecrane', positive
+'@snowdude1965 @MCTowercrane @Liebherr Glad you like it, Pat!', positive
+'Mobility at its best! Strong, mobile, flexible -> #MrTorque Meet #MrTorque at #Conexpo : http://t.co/uWsYjNWJvK http://t.co/Xi6GQ31NLz', positive
+'2nd nightshift #996 #Liebherr #ironore #pilbara', negative
+'@SPECCHECK @conexpoconagg thanks for RT and see you there!', positive
+'@spencerwynn @SkyJacked793 @Liebherr great view, Spencer!', positive
+'@NGH_doo Great picture!', positive
+'A little morning sun action. #hours ironworker #liebherr #300ton #vancouver #cambie', negative
+'@Bouwkraan What a view! Just great', positive
+'Huge.Strong.Powerful.Solid.Mobile. Time to #FaceMrTorque #MrTorque On LinkedIn: http://t.co/f19PoHCLyl On YouTube: http://t.co/lRt3OCcmSE', positive
+'To be the strongest in your class you need a lot of power- #MrTorque has got more than enough! http://t.co/x99152qsgr http://t.co/mg0MBkdxNH', positive
+'@RPA_Media Congratulations to Parry & Evans - enjoy working with it!', positive
+'@MCTowercrane @Liebherr Great photo once again, Maarten!', positive
+'The @Liebherr @conexpoconagg Mobile #Application is now available! #android #Apple #windowsphone #Conexpo #Liebherr: http://t.co/NVc5ezWRDH', positive
+'@JobSitePics @Liebherr Looks like a really good demolition job!', positive
+'Get the #Liebherr #Conexpo App (iOs, Win, Android): Navigation, information and specials - http://t.co/Rxqs5Qm4Yx http://t.co/Fur4KpX2aq', positive
+'@alexquigg57 Looks good! Keep up the good work!', positive
+'@RPA_Media Great one!', positive
+'@pintorator2 love it!', positive
+'Solid! Stay tuned for #MrTorque - to be continued: #7daysleft -> http://t.co/PRz8A61XBE', positive
+'@NGH_doo Great pic!', positive
+'@LifeAmongGiants Great photo, Meredith. Keep up the good work!', positive
+'@xcalibercrane Great job here - hopefully you get warm feelings here!', positive
+'Powerful! Ready for #MrTorque? To be continued: #10daysleft #Liebherr #power #construction http://t.co/IBsxMoinEH', positive
+'@MCTowercrane @Liebherr Great job!', positive
+'@NGH_doo Great one!', positive
+'@JobSitePics @Liebherr Hi that looks really cool!', positive
+'@NYCMERCEDES Cool! Where was this taken?', positive
+'@RPA_Media @TotalReclaims @Darren_Bennet Enjoy the first job - looking forward to seeing some pictures of it', positive
+'RT @paul_argent: A pair of @LH_Construction RL64 sidebooms at work supplied by @MaatsPipelineEq.in this months @EarthmoversMag http://t.co/…', positive
+'A Happy New Year to all our followers here on Twitter! http://t.co/ocm2Gsw31N', positive
+'RT @RPA_Media: Rock solid at 34m with @LH_Construction @Darren_Bennet @TotalReclaims http://t.co/qvJM8vkunx', positive
+'Self-assembly of an #Liebherr LTR 1220 #crawler #crane - Have a look how that works! http://t.co/UpwtSrICHi', positive
+'Strong! Prepare yourself for #MrTorque ! ...to be continued: #15daysleft http://t.co/oCSNJSzxbK', positive
+'@JobSitePics @Liebherr awesome. Thanks!', positive
+'#tommyskranbilar #towercrane #tornkran #liebherr #mk88', negative
+'Back in #history: The @Liebherr #tower #crane Form 8A! The crane was produced 3,417 times from 1954 untill 1966! http://t.co/NNEnPrDUVV', negative
+'Take a look at this great picture of an LR 1250 #crawler #crane with fibre carbon components operating in Morocco http://t.co/uJy2d7bZa3', positive
+'#work #liebherr #scraplife #scrap #crazy', negative
+'#instaweather #instaweatherpro #weather #wx #sky #outdoors #nature #world #love #beautiful #instagood #fun #cool #life #nice #ehingendonau #deutschland #day #spring #de #liebherr', positive
+'#blockparty#fortmcmurray #cranelife #liebherr #liebherr', negative
+'Just closed an extremely difficult rental deal for $9,000/mth at the new condo conversion, 101 west 87th after several people told me to fire my client?!?! WHAT ARE YOU TALKING ABOUT!!! Not every deal is easy... #IWTL Distinct, sun-splashed 3 bedroom 2 bath home highlighted by oversized windows and wide-plank oak floors. #Bertazzoni range, a #Liebherr refrigerator and LG washer and dryer. Master bedroom an en-suite bath complete with double sinks and a #marble-clad soaking tub. 101 west 87th is a full service luxury condominium boasting concierge, a state of the art fitness room, and childrens playroom. Making a summer move or considering purchasing? -Contact me directly 212-965-6015', positive
+'#Liebherr #L9350 #onoperation #obloading #nagpursite', negative
+'Our 350t crane all ready for the Surat basin mining and energy expo! Are you going? If so you have the chance to be taken up in a man cage to see Ariel views of Toowoomba in this big rig. #nqgroup #cranes #liebherr #bigrigs #biglift #350 #bigcranes #toowoomba #suratbasinexpo', positive
+'We are still missing the answer of yesterday s question: Where is this port located? A short hint: ...', negative
+'Four #Liebherr ship to shore cotainer cranes (STS) working a container vessel. The cranes, manufactu...', negative
+'Liebherr STS long boom for 22 container Turkey new procekt', positive
+'hello,im name is andrew,am im 29years old im seeks for long-relationship that can lead to joy and ha...', positive
+'Most Liebherr HS 895 HD heavy duty crawler cranes are in maritime application. The Liebherr HS 895 H...', negative
+'A very interesting task, given to these two ship cranes. They had to lift two yacht boats on board t...', positive
+'Amazing job: the Liebherr CAL 45000-1200 LIT loaded 3-blade rotor stars onto the crane vessel VIDAR ...', positive
+'South Port gains new Liebherr mobile harbour crane - http://goo.gl/pd971o Click the short link for ...', positive
+'Liebherr Maritime supply two STS cranes to Flinders Adelaide Container Terminal', negative
+'#bautrans #25thbrithday #cran #liebherr #ltm1095 #30 mter', negative
+'#Liebherr #Machine #Giant #trucklife #truck #heavy #amazing #999 #thiess #caterpillar #caterpillarfans', positive
+'#caterpillar_official #strong #truckfans #trucklife #heavy #bigfoot #fashion #road #motors #caterpillarFans #caterpillar #Liebherr #5003', positive
+'#caterpillar #caterpillarfans #Liebherr #Machine #Giant #trucklife #truck #heavy #amazing #thiess #caterpillar #cat #strong #heavy #amazing', positive
+'Only tree days school left at the 20 June I go to LIEBHERR :-)# LIEBHERR', negative
+'#work #job #cat #cbi #6400 #catplant #plant #heavyplant #treeshredder #shredder #liebherr #loud #noisy #beardedworker #dontmess #fuckshitup', negative
+'#work #bored #job #liebherr #rubbish #cat #catplant #heavyplant #shredder #360 #6400 #grab #bigboystoys #30ton #dontmess #fuckshitup #924 #beardedworker', negative
+'#littlegermany #factorylife #Liebherr..... Great mix of German and Irish', positive
+'#tbt Bragg crane s liebherr lr1400 in Anaheim. So big I couldn t fit it in the frame. Lifting the new Amtrak bridge, a couple hundred tons #braggcrane #crane #liebherr #cranenerd', negative
+'#500ton #liebherr #crane #brownandtan #gaithersburg #md #oversizeload #digrig #jobsitepics', negative
+'Just another day#coiltubing #manitex #liebherr #alberta #chicksdigtheoilpatch #oilpatch', negative
+'Ship-Cranes in the Dominican Republic! Thanks to our fan Jason for this great picture of the Alamos...', positive
+'Four dregan waiting for vessel', negative
+'My Liebherr Miniature collection. ( Rear-view mirror of cranes MK 100 and LTM 1070-4.1 is rather fragile, I am disappointed to have lost one).', negative
+'Our LHMs lift more than containers and bulk material, they also lift boats. Have a look at this nice...', positive
+'Sycratronic allows two LHMs to be operated simultaneously by one crane operator for improved speed a...', positive
+'Two STS and one MHC operations', negative
+'As a part of the new LH range, the LH 60 M Litronic sets the standard for efficient industrial freig...', positive
+'Our container cranes are engineered with efficiency in mind. Each component has been specially desig...', negative
+'This is what we call a development over the years! Thanks to our fan Stéphane for this great picture...', positive
+'Hope the bridge holds... #myview#cranelife#cranes#construction#work#piledriving#liebherr#lrh100', positive
+'So my cranes broke, got this bastard to stare at all day now #liebherr #924 #logs #longdayahead', negative
+'Working water front today! #lr1160 #liebherr #local12 #teamliebherr #towercrane #intakepumpstation', negative
+'Boorrred... selfie! ;) #work #dead #shredderdown #bummer #waskillinit #gold #fresh #operator #Liebherr #yyc #like4like #share4share #follow4follow', positive
+'#towercrane #hardwork #tornkran #binselltowercranedivision #binsell #kranförareawayoflife #tornkranförare #liebherr', negative
+'#work #scraplife #scrap #iveco #stralis #liebherr', negative
+'Love these little liebherr cranes #cool #awesome #crane #windmill #windfarm #liebherr #liebherrcrane #clouds #sky #construction #constructionequipment #heavyequipment', positive
+'#Pulverizing some #coal #silos in #Pennsylvania. Real sensitive job so what better choice than hang a #Husqvarna #dxr300 from a #liebherr #crawlercrane to help us #breakiteasy #bsi #brokk #breakingsolutions. Thanks for the cool shot @dxr_danny', positive
+'I love working on this type of cranes :)', positive
+'I love this page :) ', positive
+'The old and the new :)', positive
+'The new crane of Saint nazaire harbour', positive
+'Take a look at this stunning picture from our Liebherr-Maritime Fan Anne - she visited our site in R...', positive
+'Taken when i was visit Liebherr in Rostock last year😊', negative
+'Any plans for March 6-7 yet? It would be a pleasure for us to welcome you to the #Liebherr booth 42 ...', positive
+'#hardwork #tornkran #towercrane #liebherr', negative
+'#ihatehashtags #idoitforgoogle #mining #mininglife #coal #caterpillar #liebherr #komatsu #johndeere #kawasaki #case #otrtyres #otrtires #otrtire #otrtyre #penu #neumático #caucho #шина #miningrig #michelin #bridgestone #yokohama #goodyear #letourneau #buybigtires #otr #hitachi #gehl #jcb', negative
+'Another day... #liebherr', negative
+'From #conag #ihatehashtags #idoitforgoogle #mining #mininglife #coal #caterpillar #liebherr #komatsu #johndeere #kawasaki #case #otrtyres #otrtires #otrtire #otrtyre #penu #neumático #caucho #шина #miningrig #michelin #bridgestone #yokohama #goodyear #letourneau #buybigtires #otr #hitachi #sany', negative
+'Grinding the ways on the headslide of a Liebherr gear hobbing machine. This machine will do the flat ways, then the way grinder will do the positive side way. #liebherr #waygrinder #waygrinding #mattison #grinder #practicalmachinist', positive
+'Töitä töitä! #Liebherr #918 & #914 #compact #excavator #hard #work #finland #espoo', positive
+'This is how to work a #liebherr 634 ! #mad #driver #earthworks #basement #dig', negative
+'#local12 #liebherr #towercrane', negative
+'270 feet above caralsbad #local12 #liebherr #630', negative
+'How do crane operators access the tower cabin of our LHM 550 and LHM 600? Safe and easy! A spiral s...', positive
+'February: the new LHM 550 for Maja Stuwadoors rolled-off at Port of Amsterdam, final stage of an imp...', negative
+'Our January’s picture of the month showing two Liebherr CBG 350 heavy duty four-rope grab cranes tra...', negative
+'Turkey: Ship-to-Shore Cranes at the Container Terminal in Izmir, Turkey. Thanks to our fan Ibrahim f...', positive
+'STS-901 and STS 902 double boom..unique in the world.. TCEEGE CONTAINER TERMINAL IN IZMIR, TURKEY..', positive
+'The Liebherr STS (Ship-To-Shore) cranes are designed for safe and productive operation - 24 hours a ...', positive
+'Our mobile harbour cranes are equipped with appropriate lighting for safe operation also at night. ...', positive
+'Check out our latest Maritime Cranes Newsletter. The 13th edition covers topics like recent awards, ...', positive
+'Port of Adelaide, Australia: How do you like this photo from our fan Ashley, showing the Palanpur du...', positive
+'A great project from our colleagues of Liebherr Maritime in Egypt! Just check it out!', positive
+'Dublin, Ireland: A really great view from the cabin of our fan Gav. He operates a Liebherr rubber ty...', positive
+'2 liebherr rtg cranes head to head', negative
+'Operators  view: This LHM 120 is operating in Ipswich. Who would like to change with our fan Martin ...', positive
+'Liebherr Construction', negative
+'A clearly defined company strategy guarantees that only top quality products are developed and built...', positive
+'December 2013 in Germany: two Liebherr “crane around the leg” cranes dominate the skyline of Port of...', positive
+'And the winner is: Our sunset picture: A BOS 2600-50 EX LITRONIC Offshore Crane on the north sea! ...', positive
+'Have a look at this amazing picture showing our Fixed Cargo Crane, Type FCC 230 operated in a gold m...', positive
+'Drivers eye view', negative
+'Thanks to our fixed cargo crane both of the Maid of the Mist boats were safely stored on dry land in...', positive
+'We wish the Netherlands all the best for the game tonight - may this A 924 bring you some luck! All ...', positive
+'All the best to the US-Soccer Team! Have a great start into the #WorldCup in #Brazil. Our L 580 is ready...', positive
+'Right on the doorstep! SmartGrip stands for intelligent grabbing which means less stress for crane operators...', positive
+'The LH 60 C in the port of Bremen. Material handling performance: 560 tons of gravel per hour!', negative
+'SmartGrip - the evolution of bulk handling is now available. See this video for more Information and...', positive
+'SmartGrip - the evolution of bulk handling is now available. See this video for more Information and...', positive
+'SmartGrip - the evolution of bulk handling is now available. See this video for more Information and...', positive
+'SmartGrip - the evolution of bulk handling is now available. See this video for more Information and...', positive
+'We wish all the best for tonight, #Selecao! #WorldCup #Brazil Tudo de bom hoje à noite, #Brasil #Liebherr...', positive
+'Coming soon: The next evolutionary step in highly efficient bulk handling – SmartGrip. Boost your productivity...', positive
+'L538 in cattle feeding operation', negative
+'After the great opening yesterday, everyone is excited how todays match between the defending Mexico...', positive
+'Our cranes are not only employed at the Football World Championship venues: Right at the moment 13 L...', positive
+'One day to go – in just a few hours, the #WorldCup 2014 starts and the players will be ready for #Br...', positive
+'Which teams are playing tomorrow on 12/06/2014', negative
+'Recently an impressive assembly took place in Yanbu, Saudi Arabia: The Ali Almasaad Co. got its new ...', positive
+'Take a closer look at the right photo, showing this LTR 1100 crawler crane operating in a wind park:...', positive
+'Thanks to everyone taking part in the  Picture of the Month May  challenge! Now it s up to you: Wh...', positive
+'The winner of the #MrTorque Challenge on Facebook recently visited the birthplace of Mr. Torque – th...', positive
+'A sea port crane mounted in the centre of the old town of Zürich, far away from the sea? Two Liebher...', positive
+'Welcome to the OTC Houston 2014! Yesterday, the fair opened the gates - will you be visiting the Offshore...', positive
+'20 mobile harbour cranes for Algeria! Liebherr has received a major order from a purchasing association...', negative
+'Do you know where to find hundreds of stunning photos of #Liebherr port equipment and offshore #cranes...', positive
+'Do you know...LiDAT? LiDAT is a data transmission and positioning system for machines. Based on advanced...', positive
+'Do you know...LiDAT? LiDAT is a data transmission and positioning system for machines. Based on advanced...', positive
+'Do you know...LiDAT? LiDAT is a data transmission and positioning system for machines. Based on advanced...', positive
+'Next week we will exhibit at OTC Houston, 5-8 May 2014. You are kindly invited to visit our booth in...', positive
+'Last Call! Today is the last day of the Offshore Technology Conference 2014 in Houston #OTC - we had...', negative
+'The LH 120 M High Rise with Lightweight Stick handling scrap metal at port of Gent in Belgium. The ...', negative
+'The LH 120 M High Rise with Lightweight Stick handling scrap metal at port of Gent in Belgium. The ...', negative
+'Liebherr - Mining Truck T 264 at Expomin 2014', negative
+'Liebherr -- SmartGrip: The evolution of bulk handling', negative
+'Liebherr - Rail Mounted Gantry Cranes (RMG)', negative
+'Liebherr - Heavy Lift Offshore Cranes up to 2,000 t lifting capacity', negative
+'Liebherr - Mr. Torque - the LB 44 rotary drilling rig', negative
+'Liebherr - Rubber Tyre Gantry Cranes', negative
+'Liebherr - #MrTorque (The Start!)', negative
+'@Cartmell1002 great to hear that! Keep on operating it!', positive
+'RT @LH_Maritime: All the best to the US-Soccer Team! #WorldCup #Brazil May this L 580 help you #TeamUSA #Yanks #SoccerBoys #liebherr http:/…', positive
+'Good luck tonight & Alles Gute @DFB_Team #Germany #GERPOR #aneurerseite #liebherr #crane MK88 supports you #WorldCup http://t.co/XCmlTPB8RA', positive
+'RT @LH_Maritime: Good luck tonight, #Belgium #WorldCup ! This #liebherr A 924 is supporting you! #FifaWorldCup #Brazil http://t.co/cLhKz9M3…', positive
+'Good luck tonight, #Mexico #MexicoVsBrasil #WorldCup This #liebherr drilling rig supports you in the match! http://t.co/WAhTLbz9CC', positive
+'RT @DaGr8Brendinni: Too excited to share #myphoto @Liebherr and @MorrowEquipment #crane with #SunHalo http://t.co/6QtxkfE3vd', positive
+'RT @Hambrookmark: good morning #yyc @JobSitePics @Liebherr @TourismCalgary http://t.co/2npz4rlgk5', positive
+'#Turkish General Directorate of #State Hydraulic Works grants contract for supply of 130 #Liebherr crawler #dozers http://t.co/xhCOL5Vk1O', positive
+'@AirbusGroup #Airbus supplier ranking: #Liebherr improves by seven ranks in 2013 SFE #Supply #manufacturing http://t.co/XJ515ynNpl', positive
+'Tonight the #Seleção welcomes the #Croatian team for the opening match of the #WorldCup2014 ! Who s your favorite? http://t.co/CraOIdgNQh', positive
+'RT @LH_Maritime: All the best to the #Netherlands tonight - #liebherr A 924 supports in #NetherlandsVsSpain #WorldCup #Brazil #oranje http:…', positive
+'RT @SPECCHECK: Something you don t see every day - @Liebherr cranes transhipping bulk cargo at sea https://t.co/yAKF7GtzvD', negative
+'@DaGr8Brendinni @MorrowEquipment great shot!', positive
+'RT @LH_Maritime: Approaching: Developed to prevent overloads while maximising turnover: SmartGrip #technology #innovation #Liebherr http://…', positive
+'RT @NGH_doo: Day 5 & 6 ... #NGH_doo #liebherr #mining #excavator #assembly http://t.co/yK3nCKe7Vr', negative
+'RT @TheHaloGroup: Kitchen finishing touch: @totalhousehold says #client #Liebherr s wine cabinet is  perfect for the wine connoisseur  http…', positive
+'RT @LH_Maritime: Coming soon: Next #evolutionary step in highly efficient bulk handling: SmartGrip #innovation #technology #liebherr http:/…', positive
+'@Emerson2Hire Looks great! Wishing you lots of successful operations with your new LTM 1040-2.1!', positive
+'RT @MCTowercrane: Operated a brand new #Liebherr 150 EC-B #towercrane today. #great slewinggear! #nice @LH_Construction @Liebherr http://…', positive
+'RT @LH_Maritime: #ILA2014 Top-level politicians visiting #Liebherr-#Aerospace’s stand #berlin #Germany #Technology http://t.co/MGawNG2GGG', positive
+'RT @KHL_IC: The World #Crane Report is the most comprehensive report ever compiled for the crane sector: http://t.co/AsEbX5Ji9Y http://t.co…', positive
+'RT @LH_Maritime: we wish a good season to @maidofthemist at the #NiagaraFalls in 2014 - the baots are back in! @Liebherr #crane http://t.co…', positive
+'@INDOOGOO @KHL_Cranes Thanks for the flowers!', positive
+'RT @cwindia: Tower cranes in mining: Five #Liebherr 1250 HC #tower cranes are being used at two #mining projects in the Ata... http://t.co/…', negative
+'RT @LH_Construction: Ever seen a #crane #ballet? That s your chance: 40 #dancing #Liebherr #cranes in Apsern, #vienna #Austria #incredible …', positive
+'@PVEcranes @LH_Construction looks great!', positive
+'RT @KHL_IC: Liebherr compact crane for All Erection: USA-based crane rental company All Erection & Crane Rental has added ... http://t.co/Y…', positive
+'@h4rfy @JobSitePics great view there!', positive
+'RT @LH_Construction: Welcome to the #IFAT2014 - will you be here visiting #Liebherr at hall C3, booth 243/244? #IFAT #munich #material http…', positive
+'RT @LH_Construction: The #Liebherr #LR13000 #crawler #crane helping to install the legs of the #Aeolus in Bremerhaven, #Germany http://t.c…', positive
+'#Liebherr exhibits at #IFAT in #Munich, #Germany 5th to 9th May  14 http://t.co/aHKi6tp2iT #water #wastemanagement http://t.co/hWmO3vj8di', negative
+'RT @TerrasolumEs: Impressive Heavy Mining Equipment at @ExpominOFICIAL in Santiago de Chile. @Liebherr http://t.co/earb28yNPV', positive
+'RT @LH_Maritime: Welcome to the #OTC #Houston 2014! Second day today - will you be visiting the @OTCHouston number 243/244 #liebherr http:/…', positive
+'RT @LH_Construction: #prototype of #Liebherr #wheelloader, developed in #1954, #Germany. #cornerstone for modern wheel loaders! http://t.co…', positive
+'@Worldwide_RS @BSCInstitute Thanks very much!!', positive
+'RT @ClocktowerYDAS: @Liebherr wins Red Dot design award for its cracking side by side fridge freezer http://t.co/LIZfFaYWtK', positive
+'@paola_fusco Sorry to hear that. @LH_Home_DE will take care about that and get in contact with you.', negative
+'@INDOOGOO @KHL_Cranes great to hear that!', positive
+'RT @LH_Construction: Hundreds of stunning photos of #Liebherr equipment at one place: Follow us on #Pinterest now: http://t.co/SjZ2DYHmvA', positive
+'RT @Worldwide_RS: Congratulations to @Liebherr #Mining on their award for excellence from @BSCInstitute! http://t.co/fN7iOlNUzF http://t.co…', positive
+'RT @aemadvisor: Hall of Fame Spotlight: Dr. Hans #Liebherr http://t.co/0B0khKvE81 A pioneer of high-pressure #hydraulics http://t.co/4WPdqA…', positive
+'@STGAlaska Amazing movie!!! @LH_Construction', positive
+'RT @LH_Maritime: @Andrew_SW @Liebherr @makesmoresense @ABPSouthampton Awesome picture! Thanks, Andrew!', positive
+'RT @LH_Construction: Can t wait for the #bauma2016 to come? Then you should check this brand new clip of the #bauma2013 -enjoy! http://t.co…', positive
+'#Liebherr #Mining Equipment Newport News awarded the 2014 #Award for #Excellence by the Balanced Scorecard Institute: http://t.co/HY31Zabe2I', positive
+'RT @DemmasterD: Thanks to @Liebherr for our new R984C ultra-high reach model #ultrahighreach #Demolition http://t.co/GvtlMX6ly3', positive
+'RT @LH_Construction: #Liebherr World Premiere in #Bern: The 53 K Fast-Erecting #Crane http://t.co/XAloli1b1b', positive
+'@World_Coal_Mag Great report!', positive
+'@LeBlancIsaac Nice one!!', positive
+'RT @NGH_doo: Passion ... #ngh_doo #nice #picoftheday #photooftheday #mining #heavyequipment #quarry #liebherr #shovel http://t.co/djTaibUIdG', positive
+'@MCTowercrane @LH_Construction Nice! Where is this?', positive
+'RT @designcalendar: @midilauro so many! Gr8 #kitchens & #appliances at @EffetiUSA @jennairUSA @Liebherr', positive
+'After a great opening yesterday, everyone is excited how todays match between the defending champion...', positive
+'Our cranes are not only employed at the Football World Championship venues: Right at the moment 13 Liebherr...', positive
+'England vs. Italy - this is really going to be a thrilling match! What do you think? Which team will...', positive
+'Another great match will take place tonight: Argentina vs. Bosnia and Herzegovina! Which team is your...', positive
+'We ve already seen some great matches during the World Cup in Brazil and today there is going to be ...', positive
+'After a successful start for both teams, everyone is excited who will be victorious today when the  ...', positive
+'Have a look at this photo – have you seen this crane lately somewhere here on Google+? Absolutely right...', positive
+'Recently an impressive assembly took place in Yanbu, Saudi Arabia: The Ali Almasaad Co. got its new...', positive
+'*One day to go – in just a few hours, the #WorldCup2014   starts and the players will be ready for  ...', positive
+'#iF design #awards for LH 60 Litronic material handler #excavator #Liebherr http://t.co/Ws49ecn99S', positive
+'A sea port crane mounted in the centre of the old town of Zürich, far away from the sea? Two Liebherr...', positive
+'Top of the rock: What a spectacular helicopter assembly right at the top of  Skalnaté Pleso  in Slovakia...', positive
+'The winner of the #MrTorque Challenge on Facebook recently visited the birthplace of Mr. Torque – the...', positive
+'Feature: Appliance doors never slam shut even when fully loaded', negative
+'Feature: Professional Freezing with SuperFrost', negative
+'Feature: You ll find what you are looking for with clear illumination of LED light columns', positive
+'Successful #Rallye #Dakar #Racing team visits #Liebherr Machines Bulle SA: http://t.co/k59Q704Dki #Kamaz http://t.co/gin44LHQS4', positive
+'Feature: Discover less waste and eat healthy as well as seasonally with BioFresh', positive
+'Fitur: HomeDialog (2013)', negative
+'Teknologi: Sorotan teknis Humidor Liebherr', negative
+'All the best to the US-Soccer Team! Have a great start into the #WorldCup in #Brazil. Our L 580 is r...', positive
+'We wish the Netherlands all the best for the game tonight - may this A 924 bring you some luck! All...', positive
+' Feliz aniversário Liebherr Brazil!  Our subsidiary in Guaratinguetá (Brazil) looks back on 40 year...', negative
+'SmartGrip - the evolution of bulk handling is now available. See this video for more Information and...', positive
+'We wish all the best for tonight, #Selecao! #WorldCup #Brazil Tudo de bom hoje à noite, #Brasil. #Se...', positive
+'An impressive Mobile Harbour Crane: Thanks to our fan Gavin for this stunning picture, showing a #L...', positive
+'Right on the doorstep! SmartGrip stands for intelligent grabbing which means less stress for crane o...', positive
+'A Liebherr Mobile Harbour Crane, type LHM 420, equipped with a 4-rope-Grab. Thanks to our fan Abhasr...', positive
+'In January the first LHM for Terminal du Grand Ouest, France, arrived at the French Atlantic Coast. ...', positive
+'RT @GenAlpha_BEYOND: @Liebherr - Continued Success for Liebherr Cranes in Latin http://t.co/g3F7v709IW via @ShipNews', positive
+'RT @Logpedia: After the 2014 Conexpo, Liebherr confirms successes in all product areas - PR | Logpedia #TransportNews #Liebherr http://t.co…', positive
+'The #transport of a #liebherr R 996 sets records #mining #australia: http://t.co/jaXZQSqdDn', negative
+'After the 2014 #Conexpo, #Liebherr confirms successes in all product areas @conexpoconagg @LH_Construction: http://t.co/PG4zG51xOl', positive
+'@SLFeeding @vxsim Nice picture!! Have fun at #Conexpo!', positive
+'@EditorMarkKuhar We hope you are enjoying the show here!', positive
+'@GenAlpha_BEYOND @rdoequipment @Putzmeister @KomatsuAmerica Great to see you here in Vegas!', positive
+'@JMaxwellB that s absolutely correct! @LH_Construction', positive
+'@HuskyEquipment what a wonderful view, great pic! @LH_Construction', positive
+'Zhejiang #Liebherr Zhongche Transportation Systems Co., Ltd. Receives Its First IRIS Certificate: http://t.co/UlHwwAejzp', negative
+'@OEMOffHighway @conexpoconagg Nice picture! Thanks!', positive
+'@NGH_doo Nice one!!', positive
+'@CC_InfoBTP @RADONIC3 You re welcome!', positive
+'@MM_AsstEdAilbhe @Worldwide_RS Thanks for the share!', positive
+'RT @foundationdrill: Check out LB44 #MrTorque #Drill Rig - 376,000 Ft-lbs of Torque. @Liebherr @LH_Construction Nice Video in the Link! htt…', positive
+'Reay for @conexpoconagg ? Get you #mobile device ready for #Liebherr at #Conexpo #apple #iOS #android #WindowsPhone: http://t.co/3KM5UTtuUb', positive
+'RT @LifeAmongGiants: #iheartwind because wind workers get to play with the coolest toys. (Photo by P. Rothwell, Surespan Wind) #liebherr ht…', positive
+'RT @conexpoconagg: Who s excited to experience @Liebherr at #CONEXPOCONAGG? Learn more on our Digital Media Center. http://t.co/dka0NM0mjK', positive
+'#Liebherr - Aerospace #Toulouse SAS engages in the improvement of the #aerospace supply chain: #SPACE http://t.co/CJ2si2wyHl', positive
+'RT @LH_Maritime: Our #Maritime #Cranes #Newsletter is out - covering recent awards, LiDAT and trade shows.http://t.co/bO2V68eTXs #liebherr…', positive
+'@Launch_it Great to see it. Thanks! @LH_Construction', positive
+'@NGH_doo Great one! A Reachstacker!', positive
+'RT @LH_Construction: Powerful! Ready for #MrTorque? To be continued: #10daysleft #Liebherr #power #construction http://t.co/IBsxMoinEH', positive
+'#Liebherr-Transportation Systems to maintain #air conditioning units for #Stadler #Pankow : http://t.co/HUkjpbCNl0', negative
+'@lindstorm Well, it s a marketing idea. Please feel free to contact us on: social.media@liebherr.com for more information', positive
+'@trainingdavid @FSDocks Great picture!! And nice cranes on board:)', positive
+'RT @LH_Construction: The @Liebherr @conexpoconagg Mobile #Application is now available! #android #Apple #windowsphone #Conexpo #Liebherr: h…', positive
+'RT @LH_Maritime: #Liebherr wins the @IBJnews #Award in the category ‘Crane of the Year‘ fourth time! #photooftheday #crane #shipping http:/…', positive
+'RT @LH_Maritime: 4 Ship-To-Shore cranes #STS for #Transnet Port Terminals in #Ngqura, RSA! Cranes outreach 65m, span 30.48m #liebherr http:…', negative
+'Two LTM 1750-9.1 lifting a 360 tonne glass roof: The roof, which covers the new wave pool of the thermal...', negative
+'@CC_InfoBTP You re welcome!', positive
+'Have a look at this great video of an LR 1600/2 crawler crane, which is employed in Alaska for the expansion...', positive
+'Our crawler crane series is well known for its great boom combinations, as recently demonstrated in ...', positive
+'The R 924 crawler excavator is tough enough to handle the most demanding applications, including waste...', negative
+'A warm welcome to the 2014 IFAT Yesterday was the opening day of the 2014 IFAT in Munich. The IFAT ...', positive
+'Ready, steady, go! A new LR 11000 is rolling out of the factory hall in Ehingen, heading to the acceptance...', positive
+'Did you know? The well-known and proven LIKUFIX quick-coupling system for excavators is also available...', positive
+'@LeoMarkwat @martin021084 Ok, this doesn t sound good. First, you should contact your local service - do you have a contact?', positive
+'@LeoMarkwat @martin021084 Sounds great - you re welcome!', positive
+'@NGH_doo Nice shot! Where is this?', positive
+'@NGH_doo Sounds great! Thanks an good luck to the project!', positive
+'Winner of the @MiningMagazine 2013 #Awards, category Surface Mining: the @Liebherr T 264 Mining Truck. #Truck #mining http://t.co/MoURbzt3Is', positive
+'Welcome to the Expomin! Since yesterday, we welcome all visitors on our Liebherr stands 55 A and 50...', positive
+'RT @GenAlpha_BEYOND: Nice job! @Liebherr @MM_AsstEdAilbhe: The winner of the Surface Mining #MMawards2013 is @Liebherr for the T 264 http:/…', positive
+'@martin021084 @LeoMarkwat How can we help you? Would be great to get your messages in English!', positive
+'Fast approaching: Developed to prevent overloads while maximising turnover - SmartGrip. Stay tuned...', positive
+'Great to hear such a news: The Terminal du Grand Ouest has ordered a new #Liebherr Mobile Harbour Cr...', positive
+'What an incredible view! How do you like this picture from our fan Sascha, showing a Liebherr CBO t...', positive
+'Liebherr Bos 60/1500 EX D LICCON rising out of the fog', negative
+'The answer to Friday’s question is Port of Odessa Ukraine! There, a total of 7 Liebherr ship to sho...', negative
+'Port of Cork, Ireland: Thanks to our fan Keith for this stunning picture from the Irish Coast. A cou...', positive
+'LHM 180 in Ireland', negative
+'Coming soon: The next evolutionary step in highly efficient bulk handling – SmartGrip. Boost your ...', positive
+'@ShopMaxwells Thanks!', positive
+'@NGH_doo Awesome! Thanks!', positive
+'RT @LH_Construction: Self-assembly of an #Liebherr LTR 1220 #crawler #crane - Have a look how that works! http://t.co/UpwtSrICHi', positive
+'RT @MM_AsstEdAilbhe: The winner of the Surface Mining #Hardrock category of the #MMawards2013 is @Liebherr for the T 264 http://t.co/XNNWOk…', positive
+'RT @LH_Maritime: Great tandem #lift of ship #cranes in #Russia: Unloading of a #Mobile #Harbour #Crane #Liebherr #Transport http://t.co/04z…', positive
+'Liebherr-Aerospace: A #Partner in the Project “Agility and Confidence in the #Aerospace Industry” #Toulouse http://t.co/dEgyytLC3d', positive
+'RT @LH_Construction: Huge! #MrTorque is getting ready! #20daysleft #Liebherr http://t.co/h2rdJEI8EH', positive
+'Liebherr-Transportation Systems participates in “Riding Your #Bike to Work” #Liebherr #health #Austria #Vienna #Wien: http://t.co/mF3Rh45Pfo', positive
+'@netdog713 @icewoods54 ;) would be great!', positive
+'@JANGWANG1012 you re welcome!', positive
+'@CarlosRonCooler Interesting hint - we will think about!', positive
+'This prototype of a Liebherr wheel loader has been developed and manufactured in 1954 in Kirchdorf, ...', negative
+'“The reliability and durability as well as the particular economic efficiency of the Liebherr wheeled...', positive
+'That’s a well-oiled machine! Since more than 20 years our mobile cranes are serially configured with...', positive
+'Do you know where to find hundreds of stunning photos of Liebherr equipment just at one place? To be...', positive
+'Designed for maximum performance, comfort and reliability The LH 50 M Litronic materials handler provides...', positive
+'Our  LH 35 M Timber Litronic is an impressive sight in any timber yard. This specialized and versatile...', positive
+'Title: Coming to the 2014 ISRI Convention & Exposition: The L 542 Wheel Loader Our L 542 wheel loader...', negative
+'Our LH 60 Litronic material handler is a prize-winner in the 2014 competition for the  iF award  in ...', positive
+'20 mobile harbour cranes for Algeria! Liebherr has received a major order from a purchasing associat...', negative
+'More pictures of the LIEBHERR TCC 350 installed in Argentina! I hope you enojy it!', negative
+'Last Call! Today is the last day of the Offshore Technology Conference 2014 in Houston #OTC - we had...', negative
+'Welcome to the OTC Houston 2014! Yesterday, the fair opened the gates - will you be visiting the Off...', positive
+'Good luck tonight, #Belgium #WorldCup ! This #liebherr A 924 is supporting you! #FifaWorldCup #Brazil http://t.co/cLhKz9M30P', positive
+'How do you like that? A Liebherr TCC (Travelling Cargo #Crane), installed in Argentinia! This crane ...', positive
+'RT @Liebherr: Good luck tonight & Alles Gute @DFB_Team #Germany #GERPOR #aneurerseite #liebherr #crane MK88 supports you #WorldCup http://…', positive
+'RT @awrf: .@LH_Maritime has launched an intelligent grab for its mobile harbor cranes – SmartGrip http://t.co/Qm8LixVhTH http://t.co/Jmr71j…', positive
+'@mikepenrod great to hear that - thanks!', positive
+'@Deannewho You re welcome:)', positive
+'IFAT 2014 in Munich: We would love to welcome you on the #Liebherr booth 243/344, Hall C3 at the #IF...', positive
+'RT @WorldCargoNews: #Liebherr #SmartGrip operates as an intelligent system that optimises grab filling rates in a self-learning manner http…', positive
+'All the best to the #Netherlands tonight - #liebherr A 924 supports in #NetherlandsVsSpain #WorldCup #Brazil #oranje http://t.co/1x7cAmXf1Q', positive
+'The latest edition of #Liebherr Maritime Cranes #newsletter with #SmartGrip, Training and #TOCEurope #innovation #TOC http://t.co/oyrhslzeao', positive
+'All the best to the US-Soccer Team! #WorldCup #Brazil May this L 580 help you #TeamUSA #Yanks #SoccerBoys #liebherr http://t.co/sgFcD0fXiy', positive
+'@miningmeagan Great to hear that - always good to ahve your equipment nice and shiny!', positive
+'Coming soon: SmartGrip for intelligent grabbing - less stress for #crane operators #innovation #technology #Liebherr http://t.co/RNTIK1n1xG', positive
+'#Liebherr LH 60 C in gravel handling in Port of #Bremen. Capacity: 560 tons of gravel per hour #excavator #port http://t.co/K7ijgHXxZv', negative
+'RT @BarnesAndrewM: Plan 9 Official & tradespeople created some cool new uses for our @Liebherr crane this wknd. @LH_Maritime http://t.co/5t…', positive
+'RT @TOCWorldwide: @LH_Maritime Excited to see the launch of SmartGrip at #TOCEurope', positive
+'Approaching: Developed to prevent overloads while maximising turnover: SmartGrip #technology #innovation #Liebherr http://t.co/LpZcCymkI4', positive
+'RT @ContainerMag: Today s  Top Story  on CM: KAP and Liebherr sign additional STS and RTG contract http://t.co/OtNfOcyHAV #Liebherr # King …', positive
+'@Browniebuoy @PortofCork great pictures!', positive
+'RT @PortTechnology: Terminal du Grand Ouest scales new heights with @LH_Maritime http://t.co/ZWWaj9kx6T http://t.co/Cqmblc3k1W', positive
+'An LH 120 unloading cellulose bales for the #papermill at #aschaffenburg equipped with energy recovery system (ERC) http://t.co/4DG6e6WDlR', positive
+'Coming soon: Next #evolutionary step in highly efficient bulk handling: SmartGrip #innovation #technology #liebherr http://t.co/pZWWPBL1Zn', positive
+'#ILA2014 Top-level politicians visiting #Liebherr-#Aerospace’s stand #berlin #Germany #Technology http://t.co/MGawNG2GGG', positive
+'@ERIC70606517 Well, we hope you will get a chance someday!! Good luck!', positive
+'we wish a good season to @maidofthemist at the #NiagaraFalls in 2014 - the baots are back in! @Liebherr #crane http://t.co/x6J8DxO2Bv', positive
+'RT @NYPAenergy: .@MaidoftheMist boats get lowered into the water. “[They]…are a signature tourism attraction of #WNY” -@NYGovCuomo http://t…', positive
+'#LastCall - today is the last day of #OTC2014 in #Houston @OTCHouston - last chance to visit #liebherr at the German Pavilion (4835-4)!', negative
+'RT @LH_Construction: Welcome to the #IFAT2014 - will you be here visiting #Liebherr at hall C3, booth 243/244? #IFAT #munich #material http…', positive
+'RT @RainbowAirInc: @NiagaraFallsUSA @maidofthemist patiently waiting to be released into the water http://t.co/rCWvbEGAeH', positive
+'20 mobile #harbour #cranes for #Algeria: #Liebherr received a order opting for LHM 120, LHM 280 and LHM 420 models. http://t.co/yEpPt6IXub', negative
+'Yesterday was the final day of  #conexpoconagg   . Hopefully you didn t miss the opportunity to stop...', negative
+'Welcome to the #OTC #Houston 2014! Second day today - will you be visiting the @OTCHouston number 243/244 #liebherr http://t.co/rp3T78SUoL', positive
+'Long-term crane application in a mine in the Atacama Desert in #Chile : Differences in temperature of...', negative
+'We are just 2 days away from the opening of the +conexpoconagg  2014 trade show, as well as the grand...', positive
+'It’s a very busy and successful day at the Liebherr booth and we are happy to greet the many interesting...', positive
+'We are truly pleased to see more and more visitors coming to the Liebherr booth every day at  #conexpoconagg...', positive
+'RT @LH_Construction: The #Liebherr #LR13000 #crawler #crane helping to install the legs of the #Aeolus in Bremerhaven, #Germany http://t.c…', positive
+'We re only a few weeks out until the 2014  #conexpo  opens, and our workers and mechanics have been ...', negative
+'@SalesMessage20 well, that s correct. maybe we will go for it next time!', positive
+'To be the strongest in your class you need a lot of power. And with its big V8 505 kW (677 hp) diesel...', positive
+'#LiDAT, a data #transmission and #positioning system for #machines - efficient #management and #operation scheduling http://t.co/71VILuXsws', positive
+'What if your leader can be folded back and forward? It would be the key for easy and fast mobilization...', positive
+'Hundreds of stunning #photos of #Liebherr #port equipment and offshore #cranes? Follow us on #Pinterest #picture http://t.co/iufYFRD8Q3', positive
+'The third week of building construction for the  #Liebherr   booth at  #Conexpo  2014 is over now, and...', negative
+'RT @BMI_Bulk: #Liebherr wins order from #Australia based Northern Stevedoring Services for a type LHM 420 mobile harbour #crane http://t.co…', positive
+'LH 120 M High Rise with Lightweight Stick at the port of #Gent in #Belgium - #Liebherr #Material #Handling http://t.co/7GLno4cuoa', negative
+'Being good is one thing, but being the best is our goal. Can you combine high performance, easy mobilization...', positive
+'RT @ContainerMag: Today s top story: Liebherr mobile harbour crane bound for Australia http://t.co/Y3kI57hTqC #Australia #Liebherr #crane #…', positive
+'RT @Liebherr: #Liebherr exhibits at #IFAT in #Munich, #Germany 5th to 9th May  14 http://t.co/aHKi6tp2iT #water #wastemanagement http://t.c…', negative
+'RT @SalesMessage20: #liebherr Maritime, 3D animation /visual explanation what a solution is and does. Miss the voice-over #storytelling h…', negative
+'@SalesMessage20 Dear Ronald, voice-over canceled due to the worldwide target group. Easy understanding through icons and symbols is the idea', positive
+'Huge. Strong. Powerful. Solid. Mobile. Time to #FaceMrTorque #MrTorque On LinkedIn: www.linkedin.com...', positive
+'RT @Maritimegeek: @portstrategy @PortTechnology @LH_Maritime New Liebherr cranes start work on Hyundai Dream.1st call at Southampton. http:…', positive
+'@RODSONGROUP @DublinPortCo What kind of info do you need? Please by mail to: social.maritime@liebherr.com - thanks!!', positive
+'RT @RODSONGROUP: @LH_Maritime @DublinPortCo I have 2008 LIEBHERR LHM 400 MOBILE HARBOR CRANE ONLY 1500 HOURS 2 rope like new http://t.co/vQ…', positive
+'@Andrew_SW @Liebherr @makesmoresense @ABPSouthampton Awesome picture! Thanks, Andrew!', positive
+'#SouthPort Ltd, in #Bluff #NewZealand placed the order for an LHM 550 mobile harbour #crane to work with an LHM 400 http://t.co/krAARTkMhl', positive
+'Best female #crane driver of #Intermodal SouthAmerica #Brazil? Mayali won yesterday s #competition - try it today! http://t.co/qQBQUi2mZp', positive
+'RT @wpd_magazine: Flinders Adelaide Container Terminal places order for 2 ship to shore container cranes with Liebherr @LH_Maritime', negative
+'RT @PortTechnology: South Port gains new Liebherr mobile harbour crane http://t.co/KYOqWqHNqO @LH_Maritime', positive
+'RT @Andrew_SW: @LH_Maritime @Liebherr Newest STS cranes on @makesmoresense @ABPSouthampton SCT5 - The new golden age ©ASW2014 http://t.co/H…', positive
+'iF design award for #Liebherr LH 60 Litronic material handler in the category  product design  http://t.co/kV10BmCXL9 http://t.co/F7OERanxeZ', positive
+'#liebherr #container #cranes, engineered with efficiency in mind resulting in exellent #productivity and low #costs! http://t.co/gVhOCqKPED', positive
+'RT @LH_Construction: Successful #Rallye #Dakar racing team visits #Liebherr Machines #Bulle #engine SA:http://t.co/HeJ6XQQCG9 http://t.co/a…', positive
+'RT @BMI_Bulk: #Liebherr has reported recent orders for seven additional mobile #harbour #cranes in the #LatinAmerica region http://t.co/SxU…', negative
+'RT @Logpedia: Seven harbour cranes for South America | Logpedia #TransportNews #Liebherr #HarbourCranes http://t.co/c0CsHZ41G7', negative
+'@GenAlpha_BEYOND @Liebherr Great to have your RT!', positive
+'RT @PortTechnology: @LH_Maritime supply two STS cranes to Flinders Adelaide Container Terminal http://t.co/eLPYfKslyS', negative
+'@Andrew_SW @Liebherr @makesmoresense @FreightlinerLtd Nice one!', positive
+'RT @GenAlpha_BEYOND: @Liebherr - Continued Success for Liebherr Cranes in Latin http://t.co/g3F7v709IW via @ShipNews', positive
+'@Andrew_SW @Liebherr great!! thanks for sharing with us!', positive
+'@rockanddirt @MoleyMagnetics @CarterMachinery @costexctp @LH_Construction @MiniPaver @CaterpillarInc Thanks - same to you!', positive
+'RT @Logpedia: After the 2014 Conexpo, Liebherr confirms successes in all product areas - PR | Logpedia #TransportNews #Liebherr http://t.co…', positive
+'RT @PacificTycoon: Congratulations to @Liebherr. Liebherr MPG multi-purpose grab crane awarded  Crane of the Year  https://t.co/9M0GGXwYyG.…', positive
+'RT @BMI_Bulk: Maja Stuwadoors Group BV has acquired its first #Liebherr mobile harbour crane, going into service in #Amsterdam http://t.co/…', negative
+'RT @rockanddirt: After the 2014 @conexpoconagg, @LH_Construction Confirms Successes in all Product Areas! More at http://t.co/zw5VCwvMTR #L…', positive
+'RT @naviscargo: @follow_transnet @PortTechnology @LH_Maritime Congrats on the new cranes, things must be good in Ngqura! http://t.co/PSU2eu…', positive
+'#Liebherr #pictureofthemonth 2 @Liebherr CBG heavy duty four-rope grab #cranes transshipping #coal in the Black #Sea http://t.co/d9UWzqr8yv', negative
+'RT @hugohoekie: Available from stock: Damen Transshipment Crane Barge 6324: http://t.co/WOdki1HOJ7 via @damen @Liebherr @ponpower http://t.…', positive
+'@WorkingtonPort @EON_Renewables @BritEnergyCoast Great shot of a great job there!', positive
+'@Liebherr STS (Ship-To-Shore) #cranes, designed for safe & productive operation - #24hours a day!#Liebherr #Scotland http://t.co/FwqDfx9Zk4', positive
+'RT @Liebherr: Reay for @conexpoconagg ? Get you #mobile device ready for #Liebherr at #Conexpo #apple #iOS #android #WindowsPhone: http://t…', positive
+'#Liebherr wins the @IBJnews #Award in the category ‘Crane of the Year‘ fourth time! #photooftheday #crane #shipping http://t.co/WX0nw3zzQl', positive
+'Our #Maritime #Cranes #Newsletter is out - covering recent awards, LiDAT and trade shows.http://t.co/bO2V68eTXs #liebherr #port #offshore', positive
+'RT @LH_Construction: The @Liebherr @conexpoconagg Mobile #Application is now available! #android #Apple #windowsphone #Conexpo #Liebherr: h…', positive
+'@Manson_Cheung Hi Mason, could you please send us some more details to: social.maritime@liebherr.com ? Thanks!', positive
+'Operating during the #night thanks to perfect #light @Liebherr mobile harbour #cranes, LHM 420, in #Indonesia #port http://t.co/y4MPUCkJhK', positive
+'4 Ship-To-Shore cranes #STS for #Transnet Port Terminals in #Ngqura, RSA! Cranes outreach 65m, span 30.48m #liebherr http://t.co/0iTKhg9C1b', negative
+'@RUDChainsLtd Thanks for the RT!', positive
+'@KHL_Cranes Thanks for the RT!', positive
+'@Katrina_Lexxa Thanks for the RT!', positive
+'Great tandem #lift of ship #cranes in #Russia: Unloading of a #Mobile #Harbour #Crane #Liebherr #Transport http://t.co/04z2Vx0o3i', positive
+'A Happy New Year to all our @LH_Maritime followers here on Twitter! http://t.co/m9OVEiNIoQ', positive
+'RT @GenAlpha_BEYOND: Success!! Liebherr Reports Harbor Crane Success http://t.co/rLFv8NHGTK via @ShipNews @Liebherr #parts #aftermarket #roi', positive
+'RT @HeavyLiftPFI: Sales of mobile harbour cranes have contributed strongly to 2013 success for @Liebherr - http://t.co/GBCyQ9mupb | http://…', positive
+'#liebherr #Material Handler, type LH 30 M, with hydraulically adjustable and rigid cab-elevation systems http://t.co/81dTe3dzyC', negative
+'RT @KHL_Cranes: Congratulations! RT @LH_Maritime: #Liebherr wins the @IBJnews #Award in the category ‘Crane of the Year‘ fourth time! http:…', positive
+'Next week we will exhibit at OTC Houston, 5-8 May 2014. You are kindly invited to visit our booth in...', positive
+'#Indonesia: Three LHM 420 mobile #harbour #cranes ready for #container handling. #Port #Equipment #Load #Liebherr http://t.co/Y4OV6ZWhh9', positive
+'Surface #protection of #container #cranes: Multi Step process @Liebherr #killarney #safety #corrosion http://t.co/cwuRBzxuVe', negative
+'@GenAlpha_BEYOND @Liebherr Thanks for the RT / Favorite', positive
+'brand new liebherr p 995 from jan de nul doing some tests in the harbour of ghent :-)', positive
+'A fleet of mobile harbour crane, ready to start operations anytime! Thanks to our fan Vinesh for thi...', positive
+'Do you know where to find hundreds of stunning photos of #Liebherr port equipment and offshore #cran...', positive
+'This is also a (offshore/maritime) demolition job, never have been done and anique. Demoliton with w...', negative
+'Solid! Stay tuned for  #MrTorque   ! http://youtu.be/TOQOQVco8pM To be continued: #7daysleft  ', positive
+'Our customer Dreyfus, specialized in the collection and the treatment of waste at St-Dié-des-Vosges ...', negative
+'More capacity and more lifting height for our LR 1600/2! With its new stronger SL10 main boom system...', positive
+'The  cattle drive  When thousands of enthusiastic skiers and snowboarders flock to  Ischgl in the end...', positive
+'Strong! Prepare yourself for #MrTorque ! ...to be continued: #15daysleft http://youtu.be/NUNvnbxOS2w...', positive
+'Powerful! Ready for #MrTorque? To be continued: #10daysleft #Liebherr #power #construction', positive
+'Did you know? The horizontal concrete plants of the Betomix range have been conceived around a modular...', negative
+'With the optional jack-up cylinders our telescopic crawler crane LTR 1220 can completely assemble itself...', negative
+'Check out this awesome photo of a Liebherr LR 1300SX, shared with us by Cameron Bragg! Have you see...', positive
+' Feliz aniversário Liebherr Brazil!  Our subsidiary in Guaratinguetá (Brazil) looks back on 40 year...', negative
+'The LH 120 M High Rise with Lightweight Stick handling scrap metal at port of Gent in Belgium. The ...', negative
+'Take a look at this amazing mega grab which has a capacity of 56m³, roughly corresponding to one million...', positive
+'Take a look at this amazing mega grab which has a capacity of 56m³, roughly corresponding to one million...', positive
+'Take a look at this amazing mega grab which has a capacity of 56m³, roughly corresponding to one million...', positive
+'In Australia, Northern Stevedoring Services has ordered an LHM 420 for their berths in #Townsville, ...', negative
+'Four #Liebherr ship to shore container cranes (STS) working a container vessel. The cranes, manufactured...', negative
+'We are still missing the answer of yesterday s question: Where is this port located? A short hint: ...', negative
+'Prior to the 40 year anniversary celebration of Liebherr Brazil almost 60 Liebherr Export Dealers an...', positive
+'Amazing job: the Liebherr CAL 45000-1200 LIT loaded 3-blade rotor stars onto the crane vessel VIDAR ...', positive
+'Amazing job: the Liebherr CAL 45000-1200 LIT loaded 3-blade rotor stars onto the crane vessel VIDAR ...', positive
+'Amazing job: the Liebherr CAL 45000-1200 LIT loaded 3-blade rotor stars onto the crane vessel VIDAR ...', positive
+'Just another day in a Houston scrap yard. They are putting this Liebherr equipment to work.', negative
+'Take a cloeser look at this great twilight photo of a Liebherr 542 HCL 12/24 luffing crane in lower ...', positive
+'We were looking for the picture of the month and you voted the winner now: This R 954 C VH-HD operat...', positive
+'Our 1750 in Sweetwater Ok. 135,000# rotor.', negative
+'Our container cranes are engineered with efficiency in mind. Each component has been specially designed...', negative
+'As a part of the new LH range, the LH 60 M Litronic sets the standard for efficient industrial freight...', positive
+'Our LHMs lift more than containers and bulk material, they also lift boats. Have a look at this nice...', positive
+'Any plans for March 6-7 yet? It would be a pleasure for us to welcome you to the Liebherr booth 42 ...', positive
+'Our January’s picture of the month showing two Liebherr CBG 300 heavy duty four-rope grab cranes transshipping...', negative
+'Our January’s picture of the month showing two Liebherr CBG 300 heavy duty four-rope grab cranes transshipping...', negative
+'How do crane operators access the tower cabin of our LHM 550 and LHM 600? Safe and easy. A spiral stair...', positive
+'Four Ship to shore cranes (STS) for Transnet Port Terminals in South Africa! Back in 2012, already two...', negative
+'Check out our latest Maritime Cranes Newsletter. The 13th edition covers topics like recent awards, ...', positive
+'The Liebherr STS (Ship-To-Shore) cranes are designed for safe and productive operation - 24 hours a ...', positive
+'The Liebherr STS (Ship-To-Shore) cranes are designed for safe and productive operation - 24 hours a ...', positive
+'The Liebherr STS (Ship-To-Shore) cranes are designed for safe and productive operation - 24 hours a ...', positive
+'Four Ship to shore cranes (STS) for Transnet Port Terminals in South Africa! Back in 2012, already two...', negative
+'Long live the LRS 645: the forward-looking combination of high quality material and a highly effective...', positive
+'Long live the LRS 645: the forward-looking combination of high quality material and a highly effective...', positive
+'Liebherr mobile harbour cranes are equipped with appropriate lighting for safe operation also at night...', positive
+'Liebherr mobile harbour cranes are equipped with appropriate lighting for safe operation also at night...', positive
+'Liebherr mobile harbour cranes are equipped with appropriate lighting for safe operation also at night...', positive
+'Out of Indonesia: These three LHM 420 in container handling operations', negative
+'A clearly defined company strategy guarantees that only top quality products are developed and built...', positive
+'A clearly defined company strategy guarantees that only top quality products are developed and built...', positive
+'A clearly defined company strategy guarantees that only top quality products are developed and built...', positive
+'Surface protection of container cranes at Liebherr is a multi step process. Crane components are firstly...', positive
+'Long live the LRS 645: the forward-looking combination of high quality material and a highly effective...', positive
+'Have a look at this amazing picture showing our Fixed Cargo #Crane, Type FCC 230 operated in a gold ...', positive
+'December 2013 in Germany: two Liebherr “crane around the leg” cranes dominate the skyline of Port of...', positive
+'December 2013 in Germany: two Liebherr “crane around the leg” cranes dominate the skyline of Port of...', positive
+'December 2013 in Germany: two Liebherr “crane around the leg” cranes dominate the skyline of Port of...', positive
+'To accelerate the revitalization of Port of Maqal in Iraq, NAWAH #Port Management has also invested ...', negative
+'Thanks to our fixed cargo crane both of the Maid of the Mist boats were safely stored on dry land in...', positive
+'And the winner is: Our sunset picture: A BOS 2600-50 EX LITRONIC Offshore Crane on the north sea! Thank...', positive
+'Have a look at this amazing picture showing our Fixed Cargo #Crane, Type FCC 230 operated in a gold ...', positive
+'Have a look at this amazing picture showing our Fixed Cargo #Crane, Type FCC 230 operated in a gold ...', positive
+'Happy new year to all our +Liebherr Maritime followers here on Google+ ! We are looking forward to this...', positive
+'Liebherr Reachstacker: Our LRS 645 has a unique design of a curve-shaped, telescopic boom which means...', positive
+'Liebherr Handler – a worthwhile investment. When it comes to material handling, you need a partner ...', positive
+'LIEBHERR R946 Mining white', negative
+'Liebherr 954 loading a Liebherr dump truck', negative
+'Liebherr RL64 & RL52 Conveyor belt shifters', negative
+'Assistência técnica Geladeira duplex wolf gaggenau liebherr wolf viking 114119 5924', negative
+'Liebherr L586 Wheelloader its best!', positive
+'Farming Simulator 2013 | Liebherr 900C Colas Edition v 1.0 | Let s Test Mode [Mods] | [Fr]', negative
+'Liebherr demo show', negative
+'Davis crane erecting tallest swing ride in the country', negative
+'What an awesome picture of 2 LTM 1500 cranes, operated by Davis Cranes, setting bridge beams in Fort...', positive
+'Take a look at this great panoramic picture of an LTM 1500-8.1 lifting a skybridge. Brought to you b...', positive
+'I don t need a bigger crane...This one will work just fine. It s a liehbehr', positive
+'The transport to the quarry was a though challenge, through a very mountainous region.', negative
+'Ready, steady, go! A new LR 11000 is rolling out of the factory hall in Ehingen, heading to the acc...', positive
+'Liebherr machines in the Netherlands. How do you like this picture from our fan Jordy, showing a cou...', positive
+'We have received an incredible amount of pictures during April! Now, we have selected eight out of t...', positive
+'Liebherr’s crawler crane series is well known for its great boom combinations, as recently demonstra...', positive
+'Have a look at this great video of an LR 1600/2 crawler crane, which is employed in Alaska for the e...', positive
+'Have a look at this great pic of our Liebherr Fan Joseph - he spotted this LTM 1500-8.1 of our custo...', positive
+'Davis crane s ltm1500 lifting a skybridge', negative
+'Georgia World Congress Center Atlanta, GA April 29 - May 1, 2014 Liebherr booth #3423', negative
+'A great photo of the Liebherr booth before the show opens and the crowds flood the aisles on Day 2.', positive
+'Impressive dimensions – the most powerful conventional crane, our LR 13000 operated by Mammoet, is c...', positive
+'The R 924 crawler excavator is tough enough to handle the most demanding applications, including was...', negative
+'Did you know? The well-known and proven LIKUFIX quick-coupling system for excavators is also availa...', positive
+'Happy Easter everyone! We hope that you were well prepared for the Easter Egg Roll ;)', positive
+'This prototype of a Liebherr wheel loader has been developed and manufactured in 1954 in Kirchdorf, ...', negative
+'Throwback Thursday: Opening of a Liebherr plant in Bad Schussenried, Germany, in 1955: the cornersto...', negative
+'Atlas Crane Service Inc. Brand New LTM 1060 Based in Chicago Ready to Go!', positive
+'Many thanks to Liebherr Fan, Nigel Rattray, for sharing this stunning photo of a Liebherr R984 Demol...', positive
+'OUR CONSTRUCTION TOOLBOX IS WAITING FOR YOU www.elmpost.com is all construction. We try and write o...', negative
+'Removal of struts', negative
+'Do you know where to find hundreds of stunning photos of Liebherr equipment just at one place? To b...', positive
+'Liebherr R984c TUHRD. Dem-Master of Scotland operate this 67 metre Telescopic Ultra High Reach Demol...', positive
+'NZG Liebherr R 916 Crawler Excavator  Gubbels  /  Brodbeck  by Cranes Etc TV', negative
+'Have a look at this great photo of an LTM 1095-5.1 from our Liebherr Fan Dustin, who calls it his  H...', positive
+'“The reliability and durability as well as the particular economic efficiency of the Liebherr wheele...', positive
+'Liebherr 914 by draw grawel', negative
+'We are glad to announce the winner of our #MrTorque challenge today: Congratulations to Mark, who s...', positive
+'Coming to the 2014 ISRI Convention & Exposition: The L 542 Wheel Loader! Our L 542 wheel loader can...', negative
+'Each component has to pass a test bench run before delivery.', negative
+'Each used single part is assessed according to strict guidelines.', negative
+'Liebherr’s LH 35 M Timber Litronic is an impressive sight in any timber yard. This specialized and v...', positive
+'Job report: L 586 wheel loader', negative
+'For the transport of hot slag the L 586 is used. The L 586, which is by the way the world s largest ...', positive
+'Job report: L 586 wheel loader', negative
+'Our LH 60 Litronic material handler is a prize-winner in the 2014 competition for the  iF award  in ...', positive
+'My baby. 2012 LTM 1095-5.1. My home away from home.', negative
+'PREMACON LIEBHERR R956 Soundmodul NEU/NEW!', negative
+'Our Liebherr Fan Josh sent us this photo of an L 586 wheel loader - thanks for sharing it with us! I...', positive
+'Designed for maximum performance, comfort and reliability, the LH 50 M Litronic materials handler pr...', positive
+'100,000 Fans - a milestone we celebrated with you! And as we really want to reward you for your loy...', positive
+'Take me in this group i am great worker', positive
+'And the winner is.... John Finegan! His picture of an HS 855 HD with a hydraulic slurry wall grab is...', positive
+'Eduard Nikolaev, racing driver of the Kamaz Master team visiting Liebherr in Bulle, Switzerland.', positive
+'Mobile Crane ahead! Thanks to our fan Eric for this awesome picture of an LTM 1750-9.1, which was p...', positive
+'Impressive crane operations: Take a look at these great pictures of various Liebherr Flat-Top cranes...', positive
+'Take a look at this great picture of an LRB 125 - thanks to Judd, who is also the operator of this p...', positive
+'What a great success: Two of the trucks came in third and fifth in the overall ranking - Congratulat...', positive
+'Liebherr L586 2010 (www.pfeifermachinery.com)', negative
+'Liebherr L566 2007 (www.pfeifermachinery.com)', negative
+'Another great match of the  #WorldCup is on schedule today:  #Spain   vs.  #Chile ! What do you think...', positive
+'We wish all the best for tonight, #Selecao! #WorldCup #Brazil Tudo de bom hoje à noite, #Brasil #Liebherr...', positive
+'We wish all the best for tonight, #Selecao! #WorldCup #Brazil Tudo de bom hoje à noite, #Brasil #Liebherr...', positive
+'Starting into the WorldCup 2014 today: Argentina. We wish the south american team all the best for their...', positive
+'All the best to the US-Soccer Team! Have a great start into the #WorldCup in #Brazil. Our L 580 is ready...', positive
+'We wish all the best for tonight, #Selecao! #WorldCup #Brazil This could be already the gate to the ...', positive
+'We wish all the best for tonight, #Selecao! #WorldCup #Brazil This could be already the gate to the ...', positive
+'One of our colleagues was visiting a customer in #Australia, when he caught with his camera two excavators...', negative
+'Flashback Friday: 1952 - Opening of Liebherr plant II in German Kirchdorf. Since there are scarcely ...', negative
+'Jan De Nul Group’s Backhoe dredger ‘Gian Lorenzo Bernini’ executing dredging works in the port of Zeebrugge...', positive
+'We wish all the best for tonight, #Selecao! #WorldCup #Brazil Tudo de bom hoje à noite, #Brasil #Liebherr...', positive
+'Lock Out-Tag Out is one of the most important tools miners have to keep them safe on-site, in the field...', positive
+'Although mines will have their own procedures for Lock Out-Tag Out, we think the following is a good...', positive
+'Liebherr scrap handlers loading ship', negative
+'NZG Liebherr R 9350 Mining Excavator  Taavura  by Cranes Etc TV', negative
+'Already having three R 9800 machines operating within Western #Australia and Queensland, Downer took...', negative
+'In September 2013, Cockatoo received approval from the Queensland Government to expand mine operations...', positive
+'Welcome to the Expomin! Since yesterday, we welcome all visitors on our Liebherr stands 55 A and 50,...', positive
+'Expomin, Chile 2014 has been a great success! Thousands of people have visited Liebherr’s booth to learn...', positive
+'Already having three R 9800 machines operating within Western #Australia and Queensland, Downer took...', negative
+'Nice Shot of a Liebherr Drill Rig in Action', positive
+'Thanks to all of you for attending this great show here in Las Vegas. It was amazing having you all ...', positive
+'Have a look at this great photo from our Liebherr-Fan Eric! It shows an LTM 1750-9.1 at the open hou...', positive
+'The LTM 1300-6.2 features a longer telescopic boom of 256 ft and an increased lifting capacity compa...', positive
+'Mr. Torque has a lot of power - and many brave visitors of the 2014 #Conexpo are facing him every day. And not many get him down...If you see all these strong challengers here, don t forget to place your bet to win the special #MrTorque #Liebherr trophy!!! https://www.facebook.com/#!/LiebherrConstruction/app_488570957866795 All parts of  The Mr. Torque Challenge : https://www.facebook.com/media/set/?set=a.652606888120941.1073741850.143181005730201&type=3&uploaded=6', positive
+'We are truly pleased to see more and more visitors coming to the Liebherr booth every day at #Conexp...', positive
+'liebherr 992 long reach', negative
+'[Calli] Modvorstellung 017# - LIEBHERR Abrissbirne by Bobby 2000', negative
+'Our team from Liebherr #Brasil GMO Ltda is the only #Liebherr equipment manufacturer in South America...', negative
+'What s your best guess: How many Ford F150 s would it take to haul one truck load of the T 282 mining...', positive
+'Can you pick out the 7 missing safety features on the T 284 pictured on the right? We will post the ...', positive
+'Our team from Liebherr #Brasil GMO Ltda is the only #Liebherr equipment manufacturer in South America...', negative
+'Our team from Liebherr #Brasil GMO Ltda is the only #Liebherr equipment manufacturer in South America...', negative
+'For the first time ever, a 33m³ bucket was assembled and its shovel sole plate built in Argentina. Check...', negative
+'Liebherr HS 852 Raupenkran auf Ponton crawler crane on barge pulling wood piles', negative
+'Liebherr LR1130 2008 (www.pfeifermachinery.com)', negative
+'The first R 9800 face shovel in action in Africa at Sishen Iron Ore Mine! Who would like to take the...', positive
+'True or False? The first truck in the queue should be observing the loading process to anticipate when...', negative
+'Can you tell what equipment is being assembled for Expomin 2014 in Santiago, Chile? This piece of equipment...', negative
+'Can you tell what equipment is being assembled for Expomin 2014 in Santiago, Chile? This piece of equipment...', negative
+'Can you tell what equipment is being assembled for Expomin 2014 in Santiago, Chile? This piece of equipment...', negative
+'The first R 9800 face shovel in action in Africa at Sishen Iron Ore Mine! Who would like to take the...', positive
+'The first R 9800 face shovel in action in Africa at Sishen Iron Ore Mine! Who would like to take the...', positive
+'The first R 9800 face shovel in action in Africa at Sishen Iron Ore Mine! Who would like to take the...', positive
+'This R 9400 in backhoe configuration recently started production at Newmont s Akyem gold mine in Ghana...', positive
+'With 16V platform of engines, the T 264 offers the highest available kW/HP engine solution to accomodate...', positive
+'Moxy MT30 & Liebherr R942 / A8 Karlsbad, Germany, 19.06.1997.', negative
+'It’s been a very busy and successful day at the Liebherr booth yesterday and we were happy to greet ...', positive
+'Mr. Torque has a lot of power - and many brave visitors of the 2014 #Conexpo are facing him every day. And not many get him down...If you see all these strong challengers here, don t forget to place your bet to win the special #MrTorque #Liebherr trophy!!! https://www.facebook.com/#!/LiebherrConstruction/app_488570957866795 All parts of  The Mr. Torque Challenge : https://www.facebook.com/media/set/?set=a.652606888120941.1073741850.143181005730201&type=3&uploaded=6', positive
+'Mr. Torque has a lot of power - and many brave visitors of the 2014 #Conexpo are facing him every da...', positive
+'Have you ever been fancy to see a #Liebherr crawler crane from ABOVE? Well, that s your chance to ge...', positive
+'The crawler crane LR 1250 is based on our proven previous model LR 1200 and convinces with revised a...', positive
+'Take part in the #MrTorque Challenge now! Mr. Torque is facing the first strong opponents today - an...', positive
+'Are you prepared for #MrTorque? Brave visitors of CONEXPO-CON/AGG will have the chance to challenge ...', positive
+'With just 40 hours to go until the #Conexpo trade show 2014 opens the gates, everybody here at the L...', negative
+'We are just 2 days away from the opening of the CONEXPO-CON/AGG 2014 trade show, as well as the gran...', positive
+'Long-term crane application in a mine in the Atacama Desert in Chile: differences in temperature of ...', negative
+'Our LTM 1400/7.1 setting bridge beams in Vian. OK.', negative
+'This is the biggest load to be moved in West Australia! It weighed over 700 tons with four trucks towing...', negative
+'This is the biggest load to be moved in West Australia! It weighed over 700 tons with four trucks towing...', negative
+'This is the biggest load to be moved in West Australia! It weighed over 700 tons with four trucks towing...', negative
+'Ready for all demands: Our colleagues from Indonesia have just finished a couple of training sessions...', positive
+'Ready for all demands: Our colleagues from Indonesia have just finished a couple of training sessions...', positive
+'This is the biggest load to be moved in West Australia! It weighed over 700 tons with four trucks towing...', negative
+'This is the biggest load to be moved in West Australia! It weighed over 700 tons with four trucks towing...', negative
+'We are proud to announce that the Liebherr T 264 Mining Truck won Mining Magazine’s 2013 Awards under...', positive
+'We are proud to announce that the Liebherr T 264 Mining Truck won Mining Magazine’s 2013 Awards under...', positive
+'We are proud to announce that the Liebherr T 264 Mining Truck won Mining Magazine’s 2013 Awards under...', positive
+'For all our model fans: Our new T 264 mining truck is now also available as a model. The 1:50 scale...', positive
+'Our latest mining truck, the T 264, is really fuel-efficient, combining an efficient Litronic Plus AC...', positive
+'Our latest mining truck, the T 264, is really fuel-efficient, combining an efficient Litronic Plus AC...', positive
+'Another Load Over the Edge: Liebherr T282 Haul Truck', negative
+'Liebherr Mr Torque the LB 44 rotary drilling rig', negative
+'Mining excavator: How do you like this R 9350 in action? The R 9800 is a perfect match for a fleet ...', positive
+'We are proud to announce that the Liebherr T 264 Mining Truck won Mining Magazine’s 2013 Awards under...', positive
+'The Liebherr Mining Ground Engaging Tools are now available for our mining excavators. Check out our...', positive
+'Crikey! Happy Australia Day to all fellow Aussies out there! How are you celebrating this special day...', positive
+'Crikey! Happy Australia Day to all fellow Aussies out there! How are you celebrating this special day...', positive
+'Crikey! Happy Australia Day to all fellow Aussies out there! How are you celebrating this special day...', positive
+'The Liebherr Mining Ground Engaging Tools are now available for our mining excavators. Check out our...', positive
+'The Liebherr Mining Ground Engaging Tools are now available for our mining excavators. Check out our...', positive
+'The past 18 months have been extremely busy for the #Liebherr Mackay #mining branch, with all the builds...', negative
+'The past 18 months have been extremely busy for the #Liebherr Mackay #mining branch, with all the builds...', negative
+'The past 18 months have been extremely busy for the #Liebherr Mackay #mining branch, with all the builds...', negative
+'Check out the new video for Liebherr-Australia, Meet our People and Share our Passion! #Liebherr   ...', positive
+'It’s almost here! With only 3 days left until the gates open for CONEXPO-CON/AGG 2014, the Liebherr...', negative
+'Being good is one thing, but being the best is our goal. Can you combine high performance, easy mobi...', positive
+'What if your leader can be folded back and forward? It would be the key for easy and fast mobilizati...', positive
+'The third week of building construction for the Liebherr booth at #ConExpo 2014 is over now, and we ...', negative
+'To be the strongest in your class you need a lot of power. And with its big V8 505 kW (677 hp) diese...', positive
+'We re only a few weeks out until the 2014 #Conexpo opens, and our workers and mechanics have been bu...', negative
+'Color for your equipment? Well, we also offer special painting options for our entire product range ...', positive
+'A Happy New Year to all our +Liebherr Mining fans here on Google+! We are looking forward on the upcoming...', positive
+'The Liebherr T 284 mining truck is now at work at one of the world’s largest gold mines! With power ...', positive
+'It may be a little overcast in Las Vegas, but it doesn t stop the crew from making progress on Liebh...', positive
+'Huge. Strong. Powerful. Solid. Mobile. Time to #FaceMrTorque #MrTorque Meet on: www.linkedin.com/i...', positive
+'See it at ConExpo 2014: the Liebherr LH 40 M Material Handler! The Liebherr LH 40 M handling mach...', negative
+'Solid! Stay tuned for #MrTorque! To be continued: #7daysleft', positive
+'Powerful! Ready for #MrTorque? To be continued: #10daysleft', positive
+'KBIS/IBS day two: Lots of interesting new products making their debut at this show, some not even a...', positive
+'This great image of a Liebherr 1400/2 wide track conversion doing a gear box switch out in Wasco, Or...', positive
+'Increased capacity and lifting height: Liebherr LR 1600/2! With its new and stronger SL10 main boom...', positive
+'Strong! Prepare yourself for #MrTorque ! ...to be continued: #15daysleft', positive
+'LR 1100 delivery J.B. Steel Erectors recently added to its fleet an LR 1100. The ease of handling...', positive
+'Liebherr customer, Dreyfus, specializing in the collection and the treatment of waste at St-Dié-des-...', negative
+'With the optional jack-up cylinders our telescopic crawler crane LTR 1220 can completely assemble it...', negative
+'Welcome to Liebherr Booth C6261!', positive
+'It s another lovely day at World of Concrete in Las Vegas, NV and the perfect time to drop by Liebhe...', positive
+'Are you attending World of Concrete January 21 - 24? It s right around the corner! Stop by Liebher...', positive
+'Liebherr wishes everyone a Happy & Prosperous New Year!', positive
+'The careful and precise calibration of bucket shape and tooth selection provides the ideal digging t...', positive
+'Another great match of the #WorldCup is on schedule today: #Spain vs. #Chile ! What do you think? W...', positive
+'We wish all the best for tonight, #Selecao! #WorldCup #Brazil This could be already the gate to the ...', positive
+'All the best to the US-Soccer Team! Have a great start into the #WorldCup in #Brazil. Our L 580 is r...', positive
+'All the best tonight, Argentinia! This mining truck shall bring you all the luck needed for the game...', positive
+'Sir/madam my name is Andile Ndamase,on 2008 i was at Rustenburg @Bafokeng Rasimone Platinum Mine und...', negative
+'All the best, Australia, for the game tonight! Our R 9800 will help you in your match plan! #Austral...', positive
+'We wish all the best for tonight, #Selecao! #WorldCup #Brazil Tudo de bom hoje à noite, #Brasil. #Se...', positive
+' Feliz aniversário Liebherr Brazil!  Our subsidiary in Guaratinguetá (Brazil) looks back on 40 year...', negative
+'This is what we call flexibility: Jan De Nul Group’s Backhoe dredger ‘Gian Lorenzo Bernini’ executi...', positive
+'The R 9400 - a really awesome #excavator. And now: available as a scale model! Die cast zinc model o...', positive
+'One of our colleagues was visiting a customer in #Australia, when he caught with his camera two exca...', negative
+'Flashback Friday - 1952: Opening of Liebherr plant II in German Kirchdorf. Since there are scarcely ...', negative
+'Plz give for me this co adrras. Germani co', negative
+'Although mines will have their own procedures for Lock Out-Tag Out, we think the following is a good...', positive
+'Lock Out-Tag Out is one of the most important tools miners have to keep them safe on-site, in the fi...', positive
+'Liebherr Mining Equipment Newport News Co. will participate in the Elko Mining Show in Elko, NV 2-6 ...', negative
+'you r doing a good jpb well done', positive
+'In September 2013, Cockatoo received approval from the Queensland Government to expand mine operatio...', positive
+'Visitors at the Expomin: Great to see that our T 264 mining truck, our latest development in the tru...', positive
+'Already having three R 9800 machines operating within Western #Australia and Queensland, Downer took...', negative
+'brand new liebherr p 995 from jan de nul doing some tests in the harbour of ghent :-)', positive
+'Expomin, Chile 2014 has been a great success! Thousands of people have visited Liebherr’s booth to l...', positive
+'Welcome to the Expomin 2014! Our exhibits can be found on the stands 55 A and 50 A - and the T 264 m...', positive
+'Welcome to the Expomin! Since yesterday, we welcome all visitors on our Liebherr stands 55 A and 50,...', positive
+'****HAPPY EASTER TO ALL OUR LIEBHERR MINING FANS****', positive
+'Stunning - even for a gecko! The appearance of an R 996 B mining excavator is really a great moment...', positive
+'Assembling time.. thanks to our fan Francois for this great picture: Already a couple of weeks old, ...', positive
+'Another day in Mongolia', negative
+'R996 Assembled by LAF Kathu', negative
+'What s your best guess: How many Ford F150 s would it take to haul one truck load of the T 282 mini...', positive
+'Can you pick out the 7 missing safety features on the T 284 pictured on the right? We will post the...', positive
+'Good Day, I am a highly qualified Safety Practitioner with vast experience on National and Internat...', positive
+'130ton liebherr crane', negative
+'My Liebherr Miniature collection. ( Rear-view mirror of cranes MK 100 and LTM 1070-4.1 is rather fragile, I am disappointed to have lost one).', negative
+'For the first time ever, a 33m³ bucket was assembled and its shovel sole plate built in Argentina. C...', negative
+'Great news from #Australia ! At Curragh North, the family of #Liebherr excavators has some new memb...', positive
+'What a great success: Two of the trucks came in third and fifth in the overall ranking - Congratulat...', positive
+'Eduard Nikolaev, racing driver of the Kamaz Master team visiting Liebherr in Bulle, Switzerland.', positive
+'The first R 9800 face shovel in action in Africa at Sishen Iron Ore Mine! Who would like to take the...', positive
+'Can you tell what equipment is being assembled for Expomin 2014 in Santiago, Chile? This piece of e...', negative
+'True or False? The first truck in the queue should be observing the loading process to anticipate ...', negative
+'Don t miss the T 284 in the Rise of the Machines on H2! The show examines the engineering behind t...', negative
+'With 16V platform of engines, the T 264 offers the highest available kW/HP engine solution to accomo...', positive
+'This R 9400 in backhoe configuration recently started production at Newmont s Akyem gold mine in Gha...', positive
+'Thanks to our Liebherr-Fan Enkhbayar for sharing this picture of the assembly of two R 9400 in Mongo...', positive
+'CONSTRUCTION is boasting 90,000 fans. We gotta  ratchet it up , people! Just kidding...Two of the ...', positive
+'What a scene! This R 9800 is operating in Australia at Lake Vermont. Thanks to our Thiess Australian...', positive
+'Usually our R 9800 mining excavators are equipped with a 42 cubic meter bucket. But at the 2013 Baum...', negative
+'hy admin good nigth i want ask u may u know how i get to great man to drilling operation in oil an...', positive
+'Did you know that our T 284 mining truck consumes less fuel compared to other trucks in the same siz...', negative
+'This is the biggest load to be moved in West Australia! It weighed over 700 tons with four trucks to...', negative
+'Ready for all demands: Our colleagues from Indonesia have just finished a couple of training session...', positive
+'Our latest mining truck, the T 264, is really fuel-efficient, combining an efficient Litronic Plus A...', positive
+'For all our model fans: Our new T 264 mining truck is now also available as a model. The 1:50 scal...', positive
+'For all our model fans: Our new T 264 mining truck is now also available as a model. The 1:50 scal...', positive
+'We are proud to announce that the Liebherr T 264 Mining Truck won Mining Magazine’s 2013 Awards und...', positive
+'Crikey! Happy Australia Day to all fellow Aussies out there! How are you celebrating this special...', positive
+'R 974 B Serial Number 1005 , That`s the Excavator from the Liebherr R 974 B Promotion Video. He work...', positive
+'The Liebherr Mining Ground Engaging Tools are now available for our mining excavators. Check out o...', positive
+'A really great picture of our new T 264 mining truck! This one can be found in the Heavy Equipment C...', positive
+'The past 18 months have been extremely busy for our #Liebherr Mackay mining branch, with all the bui...', negative
+'Check out the new video for Liebherr-Australia, Meet our People and Share our Passion!', positive
+'Color for your equipment? Well, we also offer special painting options for our entire product range...', positive
+'The Liebherr T 284 mining truck is now at work at one of the world’s largest gold mines! With powe...', positive
+'Happy new year to all our Liebherr Mining fans here on Facebook! How do you  like  our first 201...', positive
+'Another top match is on schedule today:  The Three Lions  vs.  La celeste ! Which Team is your favo...', positive
+'Have a look at this stunning photo of an Liebherr LTM 1400-7.1 with a 63 meter luffing jib! Brought ...', positive
+'Liebherr LTM 1400 7.1 Schot with 63 meter luffing jib in the seaport of IJmuiden NL', negative
+'After a successful start for both teams, everyone is excited who will be victorious today when the #...', positive
+'We ve already seen some great matches during the World Cup and today there is going to be another hi...', positive
+'Another great match will take place tonight: #Argentina vs. #Bosnia and Herzegovina! Which team is ...', positive
+'DEAR SIR CAN I APPLY IN LIEBHER CONSTRUCTION AS A SAFETY OFFICER.', negative
+'Hi I m mobile crane opretar foram Pakistan live in Saudi Arab plz job me my contact no 0582785047 my...', negative
+'Our cranes are not only employed at the Football World Championship venues: Right at the moment 13 L...', positive
+'On the field soon: England vs. Italy - this is really going to be a thrilling match! What do you th...', positive
+'After a great opening yesterday, everyone is excited how todays match between the defending champion...', positive
+'One day to go – in just a few hours, the #WorldCup 2014 starts and the players will be ready for #Br...', positive
+'Thats what im drawing when im bored on class LTM 1350-6.1', negative
+'LTM 1100 5.2 nice and bright', positive
+'At the Intermasz in Posen, Liebherr received an award for its exhibition stand: It were especially t...', positive
+'Liebherr mobile crane fans anywhere? Then take a brief look at this stunning photo of our Liebherr-F...', positive
+'I m an operator crane SIO MIGAS class b (50 ton) need job please contact my phone 08175086065 thanks...', positive
+'Liebherr HS 895 HD dragline with 69,8 meter main boom and 4 tons ball. The best and largest dragline...', positive
+'can i apply for a job in liebherr construction as a safety officer.how it possible', negative
+'LTM-1750 9.1……TAIWAN HUNG TAI INTERNATIONAL CRANE ENGINEERING CO.,LTD.', negative
+'Have a look at this stunning photo of a Liebherr L 586 wheel loader with a 14 meter push bar! Who of...', positive
+' Feliz aniversário Liebherr Brazil!  Our subsidiary in Guaratinguetá (Brazil) looks back on 40 year...', negative
+'Shorter bar but can obviously move more material', negative
+'764 handling coal at port of Tyne in England', negative
+'Thanks to everyone taking part in the  Picture of the month May  challenge! Now it s up to you: Wh...', positive
+'LTM1250 Lifiting Tunneling Machine.', negative
+'Take a closer look at the right photo, showing this LTR 1100 crawler crane operating in a wind park:...', positive
+'Liebherr excavators and loaders are absolute JUNK!', negative
+'A tandem lift: Thanks to our fan Bram fro this amazing picture. He spotted a tandem lift in the port...', positive
+'2x LR 1750 Wagenborg, lifting a Siemens Turbine of 481 tons', negative
+'2x LR 1750 Wagenborg, lifting a Siemens Generator of 450 tons', negative
+'Construction estimation spreadsheet is the very useful tool in estimating cost and at the time of bi...', positive
+'I LIKE IT Liebherr Construction', positive
+'The winner of the #MrTorque Challenge on Facebook recently visited the birthplace of Mr. Torque – th...', positive
+'ltm 1300! Bucharest job - Potain md125b installation,', negative
+'Sun is positioned to celebrate the 40th anniversary of Liebherr Construction Brasil. O sol resolveu...', positive
+'Top of the rock: What a spectacular helicopter assembly right at the top of  Skalnaté Pleso  in Slov...', positive
+'www.facebook.com/ConstructionMachines.CM ', negative
+'A sea port crane mounted in the centre of the old town of Zürich, far away from the sea? Two Liebher...', positive
+'Liebherr PR 724 LGP from Gebr. Kok in bad and heavy ground conditions. But the Liebherr PR 724 LGP h...', negative
+'www.facebook.com/ConstructionMachines.CM ', negative
+'LR 1750 Van Adrichem powerlift configuration ', negative
+'Congratulations! The first crawler tractor PR 736 that will work in Sweden was sold to Hällbo Entrep...', positive
+'your products are so cool,but our crans in quality and price have the advantage.http://www.ytcrane.c...', positive
+'Brand new LR1600/2 (The most beautiful crane in the world ;D ) Thomen building a new winfarm @Dreibo...', positive
+'LTM 1500 8.1 Sarens a few years ago during the unloading of more than 100 steel coils, weighing arou...', negative
+'Take a look at this great photo of an HS 885 HD Litronic duy cycle crawler crane, brought to you by ...', positive
+'734 on hire from Liebherr rentals, Fife, Scotland.', negative
+'Liebherr LTM 11200 from HB Kran in the harbour of Rotterdam.', negative
+'If u r civil engineer plz like this page www.facebook.com/iamcivillengineer', positive
+'Liebherr tower crane Iraq - basrah', negative
+'Well drafted job using LICCON simulator planner our (Southern cranes and access)LTM1130.5.1 on 42t c...', positive
+'Crane Liebherr Crane strongest of the world.', positive
+'How do you like this photo from our Liebherr-Fan Aidan, showing his LTM 1200-5.1 on its very first j...', positive
+'From the back cab of the then 2 week old ltm1200 I was loading the slabs of our ltm1500 from on top ...', positive
+'The L 586 Wheel Loader in action: Have a look at this great video showing our biggest Wheel Loader l...', positive
+'We were looking for the picture of the month and you voted the winner now: This R 954 C VH-HD opera...', positive
+'Hello I would like to show You a video of our last order. An interesting montage of advertising ...', positive
+'Two LTM 1750-9.1 lifting a 360 tonne glass roof: The roof, which covers the new wave pool of the th...', negative
+'The transport to the quarry was a though challenge, through a very mountainous region.', negative
+'What a beautiful night shot! How do you like this photo an LTM 1400-7.1 and LTM 1250-6.1 lifting ope...', positive
+'from south wales', negative
+'Beautiful ltm 1200-5.1 HKV Working together with a brand new lr 1600 Thomen (photo s of this crane w...', positive
+'This big Liebherr L586 wheelloader, loading trucks in Denmark :) https://www.youtube.com/watch?v=WQ...', positive
+'Ready, steady, go! A new LR 11000 is rolling out of the factory hall in Ehingen, heading to the acce...', positive
+'Hi everybody! This is a little part of my collection, a very important little selection of Liebherr...', positive
+'We have received an incredible amount of pictures during April! Now, we have selected eight out of t...', positive
+'Ltm 1400 7.1 and ltm 1250/1 Michielsens working perfectly together placing 2 of these 120t concrete ...', positive
+'New Crane 200 & 220 ton 2014 model COŞKUN VİNÇ TÜRKİYE', negative
+'Today is the opening day of the 2014 IFAT in Munich. The IFAT is the world s leading trade fair for ...', positive
+'Our crawler crane series is well known for its great boom combinations, as recently demonstrated in ...', positive
+'How do you like this great photo of an R 974 C and one R 954 C in a special configuration for demoli...', positive
+'How can I obtain a hook and luffing bridle reeving diagrams for an ltm 1500 and a 11200 please?', negative
+'Liebherr HS 852 HD dragline with wrecking ball from Becker in Demolition work.', positive
+'LH-R934Lit.B.Coral Beach Pafos Cyprus.', negative
+'LH-R934Lit.B.Coral Beach Pafos Cyprus.(2)', negative
+'sending this as part of the  Picture of the Month April  contest. Hope you will like it!!!', positive
+'Impressive dimensions – the most powerful conventional crane, our LR 13000 operated by Mammoet, is c...', positive
+'Liebherr TA 230 articulated dumptrucks working succesfull in extreme groundconditions.', negative
+'The R 924 crawler excavator is tough enough to handle the most demanding applications, including was...', negative
+'brand new liebherr p 995 from jan de nul doing some tests in the harbour of ghent :-)', positive
+'Nice Liebherr R954C 34m demolition excavator from Wilko Wagner. Working in center of Hamburg.', positive
+'Did you know? The well-known and proven LIKUFIX quick-coupling system for excavators is also availab...', positive
+'Its an old photo, but this was one of the first Liebherr 954 High Reaches in the UK.', negative
+'This is also a (offshore/maritime) demolition job, never have been done and anique. Demoliton with w...', negative
+'Liebherr R984C 65m Demolition excavator from Coleman. It is developped in good cooperation with the ...', positive
+'My little liebherrr', negative
+'Weldex Liebherr LR1750 at Nigg yard.', negative
+'Thanks to our Liebherr Fan Gabriël for sharing this great photo of an LTR 11200 during operation at ...', positive
+'The second Liebherr LTM 1500-8.1 is delivered yesterday to Boekestijn in Maasland, Holland. The cran...', negative
+'Clearance Sale - safe up to 70 % now! Have a look at the latest sales offers in the official Liebhe...', positive
+'This prototype of a Liebherr wheel loader has been developed and manufactured in 1954 in Kirchdorf, ...', negative
+'Liebherr 984 Litronic. Took 2 hours to make it. So, what s next??', negative
+'Have a look at this great drawing of our Liebherr Fan Idenilson! Do you have any drawings of Liebher...', positive
+'Have a look at this great picture of a Liebherr HS 895 HD operating on a demoltion jobsite with a 2....', positive
+'Do you know where to find hundreds of stunning photos of Liebherr equipment just at one place? To e...', positive
+'Also very good and unique Liebherr demolition machine. Liebherr R984 from Baraldi with Mantovaniben...', positive
+'We love LIEBHERR', positive
+'Liebherr 934 pole grab I used to excavate a shaft in Harlow to a depth of 23meters', negative
+'Renovation Construction Budget Spreadsheet: http://www.quantity-takeoff.com/renovation-construction-...', negative
+'My Liebherr LTM1130 ❤️', negative
+'Have a look at this great phot of an LTM 1350-6.1 in Toronto, Canada! Brought to you by our Liebherr...', positive
+'That’s a well-oiled machine! Since more than 20 years Liebherr mobile cranes are serially configured...', positive
+'Crane Works #2 (Timelapse) https://www.youtube.com/watch?v=onpdYvQtA6I', positive
+'Thanks to our Liebherr Fan Arie, who shared this great picture of an LR 11350/1 crawler crane with u...', positive
+'“The reliability and durability as well as the particular economic efficiency of the Liebherr wheele...', positive
+'Liebherr LG1750 finished lifting in Sweden, with the  P-Boom  system.. :-)', positive
+'When comming modells of liebherr 910 in 1.50 scale ?', negative
+'I m totally stunned. The best designed construction Equipment I ve ever seen. Captivating work. Well...', positive
+'The Liebherr HS 895 HD crawler crane is also perfect for demolition applications. This crane is spec...', positive
+'Coming to the 2014 ISRI Convention & Exposition next week: The L 542 Wheel Loader! Our L 542 wheel ...', negative
+'We are glad to announce the winner of our #MrTorque challenge today: Congratulations to Mark, who s...', positive
+'Each component has to pass a test bench run before delivery.', negative
+'Each used single part is assessed according to strict guidelines.', negative
+'Liebherr R954B HRD Melchiorre Demolition with demolition pole. http://www.youtube.com/watch?v=s-jcy...', negative
+'Liebherr LG 1750 of MC Nally s driving from 1 windmill to another with the upperstructure attached i...', negative
+'Liebherr’s LH 35 M Timber Litronic is an impressive sight in any timber yard. This specialized and v...', positive
+'Thank you for the wonderful supported offered to us here at Austin House Family Centre. Well done gr...', positive
+'Liebherr offers good and reliable demolition solutions. Dutch demolition contractor M. Heezen choose...', positive
+'Take a look at this great photo of an HS 885 HD duty cycle crawler crane operating in the Netherland...', positive
+'Designed for maximum performance, comfort and reliability: Our LH 50 M Litronic materials handler pr...', positive
+'Our LH 60 Litronic material handler is a prize-winner in the 2014 competition for the  iF award  in ...', positive
+'My Liebherr Miniature collection. ( Rear-view mirror of cranes MK 100 and LTM 1070-4.1 is rather fragile, I am disappointed to have lost one).', negative
+'Liebherr HS885HD from the firm Liebregts middelbeers from the Netherlands, equipped with 36 m boom a...', positive
+'Have a look at this great photo of an LTM 1500-8.1 on a jobsite in Brussels, Belgium. Thanks to our ...', positive
+'100,000 Fans - a milestone we celebrated with you! And as we really want to reward you for your loya...', positive
+'Hiap Tong s Liebherr LTM1500 Lifting some lift sections in Singapore for a lift upgrading program!!', negative
+'And the winner is.... John Finegan! His picture of an HS 855 HD with a hydraulic slurry wall grab is...', positive
+'Liebherr-Shop Sales Offer: Save 35% on Liebherr Promotion Kid s Fashion now! A perfect present for a...', positive
+'Liebherr Construction has just been liked by Leads To Retail and would love to see you like our page...', positive
+'LTM 1400 7.1 Saan in Amsterdam for lifting stuff to the 28th floor', negative
+'What a great success: Two of the trucks came in third and fifth in the overall ranking - Congratulat...', positive
+'Eduard Nikolaev, racing driver of the Kamaz Master team visiting Liebherr in Bulle, Switzerland.', positive
+'Good morning from Kerry Today. Liebherr Construction pay row in Fossa, Killarney resolved. Liebherr ...', positive
+'Impressive crane operations: Take a look at these great pictures of various Liebherr Flat-Top cranes...', positive
+'i am a mobile crane operator and i want job in this compny.', negative
+'We asked you to hand in all your drilling and digging pictures! Thank you really much for taking par...', positive
+'Thanks to all of you for attending this great show here in Las Vegas. It was amazing having you all ...', positive
+'Has there been any winners today, thanks. ', positive
+'Today is the final day of CONEXPO-CON/AGG 2014. You don t want to miss the opportunity to stop by t...', negative
+'Liebherr R954C VH-HD 34m version from Baldewijns. Working with short boom and extension and Atlas Co...', positive
+'Mr. Torque has a lot of power - and many brave visitors of the 2014 #Conexpo are facing him every day. Everyone has the chance to show all power: Push the bar to turn the auger! Who is having a max. torque of more than 510 kNm? Not many get him down...If you see all these strong challengers here, don t forget to place your bet to win the special #MrTorque #Liebherr trophy!!! https://www.facebook.com/LiebherrConstruction/app_488570957866795 All parts of the challenge: https://www.facebook.com/media/set/?set=a.712779125410457.1073741897.392443934110646&type=3&uploaded=6', positive
+'Mr. Torque has a lot of power - and many brave visitors of the 2014 #Conexpo are facing him every day. Everyone has the chance to show all power: Push the bar to turn the auger! Who is having a max. torque of more than 510 kNm? Not many get him down...If you see all these strong challengers here, don t forget to place your bet to win the special #MrTorque #Liebherr trophy!!! https://www.facebook.com/LiebherrConstruction/app_488570957866795 All parts of the challenge: https://www.facebook.com/media/set/?set=a.712779125410457.1073741897.392443934110646&type=3&uploaded=6', positive
+'We are truly pleased to see more and more visitors coming to the Liebherr booth every day at #Conexp...', positive
+'Mr. Torque has a lot of power - and many brave visitors of the 2014 #Conexpo are facing him every day. Everyone has the chance to show all power: Push the bar to turn the auger! Who is having a max. torque of more than 510 kNm? Not many get him down...If you see all these strong challengers here, don t forget to place your bet to win the special #MrTorque #Liebherr trophy!!! https://www.facebook.com/LiebherrConstruction/app_488570957866795 All parts of the challenge: https://www.facebook.com/media/set/?set=a.712779125410457.1073741897.392443934110646&type=3&uploaded=6', positive
+'All liebherr in my company in Sweden Slaggprodukter AB', negative
+'Transport EL Hajj put chillers York weight 9 ton on high 88 meter depth 40 meter in grand hills hot...', positive
+'Mr. Torque has a lot of power - and many brave visitors of the 2014 #Conexpo are facing him every day. Everyone has the chance to show all power: Push the bar to turn the auger! Who is having a max. torque of more than 510 kNm? Not many get him down...If you see all these strong challengers here, don t forget to place your bet to win the special #MrTorque #Liebherr trophy!!! https://www.facebook.com/LiebherrConstruction/app_488570957866795 All parts of the challenge: https://www.facebook.com/media/set/?set=a.712779125410457.1073741897.392443934110646&type=3&uploaded=6', positive
+'Mr. Torque has a lot of power - and many brave visitors of the 2014 #Conexpo are facing him every da...', positive
+'Have you ever been lucky to see a #Liebherr crawler crane from ABOVE? Well, that s your chance to g...', positive
+'It’s a very busy and successful day at the #Liebherr booth and we are happy to greet the many intere...', positive
+'The crawler crane LR 1250 is based on our proven previous model LR 1200 and convinces with revised a...', positive
+'Take part in the #MrTorque Challenge now! Mr. Torque is facing the first strong opponents today - an...', positive
+'l like is job ,,, oke thank you so mach by', positive
+'Ready for Conexpo????', positive
+'Are you prepared for Mr. Torque? Brave visitors of CONEXPO-CON/AGG will have the chance to challenge...', positive
+'Hello! i wanna send my Cv , how i can do it please? cheers from Brazil ', negative
+'We are just 2 days away from the opening of the CONEXPO-CON/AGG 2014 trade show, as well as the gran...', positive
+'Long-term crane application in a mine in the Atacama Desert in Chile: differences in temperature of ...', negative
+'Very good performance...', positive
+'Being good is one thing, but being the best is our goal. Can you combine high performance, easy mobi...', positive
+'The third week of building construction for the #Liebherr booth at #ConExpo 2014 is over now, and we...', negative
+'anyone that can explain to me either on R 956 can be installed a hammer later on or the hammer must...', negative
+'What if your leader can be folded back and forward? It would be the key for easy and fast mobilizati...', positive
+'...where is the fire?? Liebherr mobilbaukran MK80, Den Helder Holland', negative
+'On the 5th Of February this new Ltm 1130 5-1 was delivered at MJ Eriksson in Denmark beautyfull cran...', negative
+'Going to the Netherlands: Thanks to our fan Jelco for this nice mobile crane picture. A new LTM 1060...', positive
+'Our pipelayer RL 54 Litronic in action: Modern pipeline building sites often make high demands on ou...', positive
+'To be the strongest in your class you need a lot of power. And with its big V8 505 kW (677 hp) diese...', positive
+'We re only a few weeks out until the 2014 #Conexpo opens, and our workers and mechanics have been bu...', negative
+'This is a rather impressive pic from Liebherr Construction! Liebherr Construction', positive
+'Thanks Liebherr for a crane like this LG 1750!!! GOOD JOB LIEBHERR !!!', positive
+'Biting the Earth til -63,5 m', negative
+'Have a look at this great picture of a big project in Rotterdam, Netherlands: A 550 EC-H, 630 EC-H o...', positive
+'NQ Group installing signage in Brisbane Australia https://www.youtube.com/watch?v=onmdSOYYB1o ', negative
+'Huge. Strong. Powerful. Solid. Mobile. Time to #FaceMrTorque #MrTorque www.linkedin.com/in/mrtorqu...', positive
+'About two years ago, this LTM 1080/1 from Wagenborg Nedlift was at full speed on his way to a job in...', negative
+'Crane cabs at Fenit kerry', negative
+'Great and the best in the world', positive
+'Take a look at another beautiful example of excellent teamwork! Thanks to our Liebherr Fan Craig for...', positive
+'And the winner is... Tobias! He handed in this great picture of a Liebherr LR 1160 working on a dam ...', positive
+'Solid! Stay tuned for #MrTorque! To be continued: #7daysleft', positive
+'MEMBREYS MAKING IT HAPPEN IN AUSTRALIA like our page please', positive
+'Powerful! Ready for #MrTorque? To be continued: #10daysleft', positive
+'Estimating with Excel for the Small Contractor: http://sketchup3dconstruction.com/const/tutorial/est...', positive
+'What a view! Thanks to Jelco, our Liebherr-Fan who sent us this great picture from a jobsite in Utre...', positive
+'Lr 1600 wainfleet ontario topping off', negative
+'Lr1600 wainfleet ontario', negative
+'A great project from our colleagues of Liebherr Maritime in Egypt! Just check it out!', positive
+'A Dutch LH 120 flower.', negative
+'A Dutch LH 120 with my service car.', negative
+'Strong! Prepare yourself for #MrTorque ! ...to be continued: #15daysleft', positive
+'The Ischgl region is in perfect condition to receive the thousands of enthusiastic skiers and snowbo...', positive
+'More capacity and more lifting height for our LR 1600/2! With its new stronger SL10 main boom system...', positive
+'What a view! Thanks to our fan Shani for sharing this picture of a Liebherr 280 HC-L luffing-jib cra...', positive
+'Our customer Dreyfus, specialized in the collection and the treatment of waste at St-Dié-des-Vosges ...', negative
+'Liebherr LR 1750 of Riga-Baumann at work in Leverkusen for the demolition of a building in 2012.', positive
+'280 HC-L, 511 Meter hook hight at KAFD (Riyadh)', negative
+'Windpower! Thanks to our fan Syed for this great picture out of Pakistan. This LR 1600/2-W is erecti...', positive
+'Just in time for the weekend we are pleased to inform you that the popular Construction Simulator 20...', positive
+'Teamwork at its best! Have a look at this photo of 4 (!) Liebherr mobile cranes tilting a whole ship...', positive
+'Training at Telfs, Austria..... Liebherr Dozer factory', negative
+'Tower cranes running on rails: A 550 EC-H 20 Litronic and a 420 EC-H 16 Litronic are currently work...', positive
+'Johnson Crane Hire launched the jewel of its mobile hydraulic fleet in 2013, the new LTM1750-9.1', negative
+'Simply the best !!!!!!! Spitze !!!!!!!!!!! Natuurlijk.............', positive
+'Liebherr LTM 1500-8.1 setting up to lift a high plume fan at a university in Singapore.', negative
+'How do you like this one? The first LH 22 started its work in Hungary on a recycling plant in Várpal...', positive
+'With the optional jack-up cylinders our telescopic crawler crane LTR 1220 can completely assemble it...', negative
+'Liebherr manufactures wonderful cranes :) Here s 1 of our 2 units of Liebherr LTM11200 s shorlty be...', positive
+'Thanks to Tom, our Liebherr-Fan who sent us this picture of an LTM 1400 and LTM 1750 which are disse...', positive
+'LIEBHERR LR 1600/2-W. Ready for Wind Turbine erection in Pakistan !!', positive
+'That is teamwork! Have a look at this amazing picture of an LTM 1750 and LR 1750 lifting a 270t load...', positive
+'Liebherr L566 loading bulk road haulers in the UK', negative
+'Congratulations to Muhamed, who handed in this picturesque snapshot of a Liebherr truck mixer - you ...', positive
+'Solna, Sweden: A really big project is talking place there at the moment, the new hospital is under ...', negative
+'AK50B the first LIEBHERR crane 1960 photo by my phone cam :)', positive
+'L300 the first wheel excavator by LIEBHERR 1954 photo by my phone cam :)', positive
+'In the Netherlands: This R 984 C is operating near the town of Rosmalen. A really stunning crawler e...', positive
+'Also a truck mixer type HTM 1004. Thanks to Geert-Yke for this special photo, showing a new hybrid t...', positive
+'Under the motto  Committed to Your Success , we opened our new Sales and Service Centre at Dandenong...', positive
+'From Israel: Our Fan Muhamed has handed in his favorite picture of a Liebherr truck mixer - also use...', positive
+'Happy new yaer !  Liebherr ', positive
+'Liebherr 916 with Indexator Rototilt', negative
+'An LTM 1750-9.1 in action: Thanks to our fan Jelco for this great picture, taken at a job site in th...', positive
+'Yesterday, 02-01-2014, the LTM 1750-9.1 of BarneveldseKraanVerhuur pulling up it s 56 meter luffingj...', negative
+'A Happy New Year to every single one of you! Thank you so much for your support, your numerous comm...', positive
+'Liebherr LH 60 Industry. I am the proud Winner op the photo competition about Liebherr material hand...', positive
+' Ikke barre snakk: Stay together, work together, exchange expierences, learn from your partner, DO I...', positive
+'My Liebherr Miniature collection. ( Rear-view mirror of cranes MK 100 and LTM 1070-4.1 is rather fragile, I am disappointed to have lost one).', negative
+'A warm welcome to the Norwegian students here in Kempten! To kick off their month-long stay, there w...', positive
+'During 2013 the #Liebherr #workforce increased in size by 1,623 employees or approximately 4%, reaching...', negative
+'We ve got up to 25% off in our Big Weekend Event. Top deals on #panasonic    #Bosch  , #Samsung   #Liebherr...', positive
+'Another Heavy Equipment job.....2013 Liebherr 586 Loader', negative
+'All the best to the US-Soccer Team! Have a great start into the #WorldCup in #Brazil. Our L 580 is ready...', positive
+' Liebherr Maritime Cranes, the division of the Liebherr Group which specialises in bespoke cargo handling...', negative
+'Introducing for the first time to North America the #Liebherr 542 HC-L luffer http://www.morrow.com/...', negative
+'#Liebherr explained that the main focus of this bespoke crane was the protection of passengers. The ...', positive
+'To back up your BioFresh vegetable crate! Fresh foods are not only demonstrably healthier - they taste...', positive
+'For fitness and well-being, the quality and freshness of the food is an important contribution. Nature...', positive
+'10 tips on how to deal with frozen foods Tags: thawing , invention , harvest time , freezing , freezer...', negative
+'Starting into the WorldCup 2014 today: Argentina. We wish the south american team all the best for their...', positive
+'Antonov An-124: Biggest Aircraft Documentary. This is a great documentary about a gigantic Russian ...', positive
+'Our cranes are not only employed at the Football World Championship venues: Right at the moment 13 Liebherr...', positive
+'Our cranes are not only employed at the Football World Championship venues: Right at the moment 13 Liebherr...', positive
+'My little Liebherr', negative
+'My little Liebherr', negative
+'My little Liebherr', negative
+'#Liebherr CTNes4753 Stainless Steel with 10% #discount. Fridge: 329 L, Freezer: 84 L, Energy Efficiency...', positive
+'LIEBHERR WKB 4212 Vinotek Energy efficiency class A Energy consump. in 365 days/24 h 168/0,460 kWh ...', negative
+'Liebherr - Sycratronic: Syncronized Crane Control for automated tandem lifts', negative
+'Liebherr - Sycratronic: Syncronized Crane Control for automated tandem lifts', negative
+'Check out this gallery of the amazing #Liebherr Slewing Crane model, the pro s that comes with them ...', positive
+'The Wheelabrator TC in Metelen, Germany, has just delivered our largest ever combined shot blast machine...', negative
+'FSG Hands Over ROLLDOCK STORM: RollDock Shipping BV has taken delivery of their latest vessel, ROLLDOCK...', negative
+'DuoCooling provides superior performance and efficiency as well as food preservation. The dual refrigeration...', positive
+'Scratch-resistant and easy to clean as well as dishwasher safe, the space-saving GlassLine shelves are...', positive
+'Download the Liebherr media app to your iPad for quick and easy access to all Liebherr household appliance...', positive
+'Check out this gallery of the amazing #Liebherr Slewing Crane model, the pro s that comes with them ...', positive
+'Have a look at this photo – have you seen this crane lately somewhere here on Google+? Absolutely right...', positive
+'Imperial hired by Hill Mechanical Group utilizing our Liebherr LTM 1250 to lift 2 units to the rooftop...', negative
+'Watch this NZG Liebherr R916 Advanced Excavator Product Review by Cranes Etc! Order yours today at: ...', positive
+'A sea port crane mounted in the centre of the old town of Zürich, far away from the sea? Two Liebherr...', positive
+'A sea port crane mounted in the centre of the old town of Zürich, far away from the sea? Two Liebherr...', positive
+'New Mods Liebherr Crawler - Farming Simulator 2013 Mods Liebherr Crawler Crane Credits: Giants, Boby...', negative
+'Download Liebherr Crawler Sarens farming simulator mod Description: Sarens Edition Liebherr Crawler ...', negative
+'Congratulations to Liebherr! This year, the unique crane supporting system, developed by Liebherr-Werk...', positive
+' Australian-based Northern Stevedoring Services (NSS) placed an order for a Liebherr mobile harbor crane...', negative
+'Left and right, each side has one +Liebherr Construction  LTM 1750-9.1 all-terrain mobile crane! Both...', positive
+'Test Load 115 ton with Liebherr Crawler crane with 120 ton super-lift. Thank you for Saha Crane team...', positive
+' Crane Lake , a ballet of cranes: The dense jumbling of tower cranes with the Vienna skyline as backdrop...', negative
+'Ladies and Gentlemen: it s here. The 500-Ton Liebherr LTM 1400! We re excited to be able to put it to...', positive
+'This is the 1030-2.1 #Liebherr #Crane in working mode, one of the best slewing crane models in it s ...', positive
+'There s lots going on at Liebherr. That s my white wagon in between those 2 cranes hahaha.... Unfortunately...', negative
+'#Liebherr #cranes are some of the finest and most powerful cranes on the market. Known as high-quality...', positive
+'#Liebherr #cranes are some of the finest and most powerful cranes on the market. Known as high-quality...', positive
+'#Liebherr #cranes are some of the finest cranes on the market and they are available all around the ...', positive
+'The overall weight of this #Liebherr mobile crane is 18.45 m, while the carrier along is 16 m long, ...', negative
+'#Liebherr is one of the most successful companies in the world. Family owned and founded by Hans Liebherr...', positive
+'#Liebherr is one of the most successful companies in the world. Family owned and founded by Hans Liebherr...', positive
+'#Liebherr is one of the most successful companies in the world. Family owned and founded by Hans Liebherr...', positive
+'#Liebherr is one of the most successful companies in the world. Family owned and founded by Hans Liebherr...', positive
+'#Liebherr #Cranes available new and used! LTM1400, LTM1030, LR1300 and LR1250 are some of the cranes...', positive
+'#Liebherr #Cranes available new and used! LTM1400, LTM1030, LR1300 and LR1250 are some of the cranes...', positive
+'A #Liebherr   crawler crane LR 11350 erected a complete pre-formed ring linger during the construction...', negative
+'A #Liebherr   crawler crane LR 11350 erected a complete pre-formed ring linger during the construction...', negative
+'A #Liebherr   crawler crane LR 11350 erected a complete pre-formed ring linger during the construction...', negative
+'View this video of Big Liebherr #Crawler Crane View more crawler cranes for sale from brands like Hitachi...', positive
+'Liebherr mobile harbour cranes are equipped with appropriate lighting for safe operation also at night...', positive
+'Amazing job: the Liebherr CAL 45000-1200 LIT loaded 3-blade rotor stars onto the crane vessel VIDAR ...', positive
+'Recognized as an industry leader in the manufacturing of mobile cranes, +Liebherr Maritime Cranes is...', negative
+'A new +Liebherr Maritime ship-to-shore gantry crane, the 7th in the Tauranga Container Terminal fleet...', negative
+'Liebherr Maritime Wins 4th Crane of The Year Congratulations to +Liebherr Maritime. The Liebherr MPG...', positive
+'Liebherr mobile harbour cranes are equipped with appropriate lighting for safe operation also at night...', positive
+'Liebherr mobile harbour cranes are equipped with appropriate lighting for safe operation also at night...', positive
+'Liebherr mobile harbour cranes are equipped with appropriate lighting for safe operation also at night...', positive
+'Great aerial shot of the BCMEA Waterfront Training Centre and our Liebherr pedestal crane', positive
+'Liebherr Reachstacker: Our LRS 645 has a unique design of a curve-shaped, telescopic boom which means...', positive
+'#Liebherr ICN 3356 Integrated with 10% #discount. Fridge: 198 L, Freezer: 63 L, Energy Efficiency: A...', positive
+'#Liebherr IK2310 Integrated with 10% #discount. 36dB Integrated, Net volume: 223 L, Energy Efficiency...', positive
+'The new 75 cm-wide built-in innovative food storage centre BioFresh In brief: One innovation is the...', positive
+'Innovative ideas, premium quality and top design: The new built-in appliances In brief: With innovative...', positive
+'Plus X Award 2014 for three Liebherr refrigerators and freezers In brief: In 2014 three Liebherr appliances...', positive
+'#Liebherr CUPsl 3221 Silver with 13% #discount. Fridge: 199 L, Freezer: 85 L, Energy Efficiency: A++...', negative
+'Liebherr Promo 1+1 Buy one fridge and get small fridge for free !', positive
+'LED Light To give a perfect overview of the freezer compartment, there is an LED light strip integrated...', positive
+'Refrigerator Cabinet Foaming PLug: This is IK2314 MODEL for LIEBHERR OF Germany company that to be supplied...', negative
+'Liebherr Refrigerator Control Module... Freezer section not working... hmm?', negative
+'liebherr cs2062 36 19 6 cu ft counter depth french door refrigerator | enrakskelhone', negative
+'Liebherr - 24  Out Door Refrigerator - RO 500 The Liebherr outdoor/indoor refrigerator is a perfect ...', positive
+'liebherr 7440000 refrigerator water filter | buratholdque', negative
+'Liebherr wins Red Dot design award for its cracking side by side fridge freezers http://ow.ly/wzCeA', positive
+'If you re torn between getting either a black or steel fridge freezer worry no more as Liebherr are ...', negative
+'New post (Liebherr Premium Fridge Freezer Free Standing Side by Side Stainless ***) has been published...', positive
+'Luxury wine storage company, Liebherr looking to expand into U.S. markets,', positive
+'SCK Blog Post Fuel Espresso Brookvale - Fuel Espresso at Brookvale, fuelling your needs for a great ...', positive
+'A House Keepers cupboard with integrated Liebherr Fridge and Freezer has been installed in our Head ...', positive
+'Metrotown 2 Bedroom Condo w/ Balcony & Stunning Views @ Chancellor Address: #3508- 4880 Bennett Street...', positive
+'RT @PortTechnology: TOC Europe ready to roll! http://t.co/ixvYa61XzM @Liebherr @Konecranes @CavotecGroup http://t.co/s63unv0tDy', positive
+'@PortTechnology thanks for the mention and have a great show. @Liebherr @Konecranes', positive
+'TOC Europe ready to roll! http://t.co/ixvYa61XzM @Liebherr @Konecranes @CavotecGroup http://t.co/s63unv0tDy', positive
+'@Liebherr #Sunderland are sponsoring our Advanced Manufacturing Day on 2 Jul - there ll be ideas for a whole host of careers #WDW2014', positive
+'RT @Liebherr: Good luck tonight, #Mexico #MexicoVsBrasil #WorldCup This #liebherr drilling rig supports you in the match! http://t.co/WAhTL…', positive
+'RT @Liebherr: Good luck tonight, #Mexico #MexicoVsBrasil #WorldCup This #liebherr drilling rig supports you in the match! http://t.co/WAhTL…', positive
+'RT @Liebherr: Good luck tonight, #Mexico #MexicoVsBrasil #WorldCup This #liebherr drilling rig supports you in the match! http://t.co/WAhTL…', positive
+'RT @HeavyLiftPFI: @Liebherr Group reports steady 2013 - http://t.co/XUJv9PUMJq http://t.co/ZfUMoPXvS6', positive
+'RT @Liebherr: Good luck tonight & Alles Gute @DFB_Team #Germany #GERPOR #aneurerseite #liebherr #crane MK88 supports you #WorldCup http://…', positive
+'RT @Liebherr: Good luck tonight & Alles Gute @DFB_Team #Germany #GERPOR #aneurerseite #liebherr #crane MK88 supports you #WorldCup http://…', positive
+'@andythecrane @Liebherr just a great little crane. The tail swing with the dolly is minimal. Would be nice without weight restrictions!', positive
+'@Cartmell1002 @Liebherr I quite like the 55 as well. Compact on the road.', positive
+'RT @Liebherr: Good luck tonight & Alles Gute @DFB_Team #Germany #GERPOR #aneurerseite #liebherr #crane MK88 supports you #WorldCup http://…', positive
+'@Liebherr Group reports steady 2013 - http://t.co/XUJv9PUMJq http://t.co/ZfUMoPXvS6', positive
+'“@awrf: .@Liebherr develops armored rescue crane http://t.co/5347b9WS6X http://t.co/CioFx2a78q” cool!', positive
+'@LH_Maritime @Liebherr Thanks for your fav !', positive
+'RT @PortTechnology: TOC Europe ready to roll! http://t.co/ixvYa61XzM @Liebherr @Konecranes @CavotecGroup http://t.co/s63unv0tDy', positive
+'Best #crane I ve ever run @Liebherr. Small, reliable. Can t wait to be in the seat again http://t.co/19Y0Wr8XbM', positive
+'Thank you @Liebherr for the favourite. Love your equipment!', positive
+'@Cartmell1002 @Liebherr the UK spec is good on the road. Drives well.', positive
+'RT @liebherr: Tonight the #Seleção welcomes the #Croatian team for the opening of #WorldCup2014! Who s your favorite? http://t.co/hVWU2r5zrv', positive
+'RT @Hambrookmark: good morning #yyc @JobSitePics @Liebherr @TourismCalgary http://t.co/2npz4rlgk5', positive
+'RT @Liebherr: Tonight the #Seleção welcomes the #Croatian team for the opening match of the #WorldCup2014 ! Who s your favorite? http://t.c…', positive
+'RT @Liebherr: Tonight the #Seleção welcomes the #Croatian team for the opening match of the #WorldCup2014 ! Who s your favorite? http://t.c…', positive
+'RT @SPECCHECK: Something you don t see every day - @Liebherr cranes transhipping bulk cargo at sea https://t.co/yAKF7GtzvD', negative
+'TY4RT s&MT s @10MillionMiler @susanWV309 @100pctAmerican @Liebherr @2013_therese Remember, you only have to succeed the last time.BrianTracy', positive
+'#jsp by @DaGr8Brendinni Too excited to share #myphoto @Liebherr and @MorrowEquipment #crane with #SunHalo http://t.co/fzED6QjcLL', positive
+'RT @Liebherr: #Turkish General Directorate of #State Hydraulic Works grants contract for supply of 130 #Liebherr crawler #dozers http://t.c…', positive
+'RT @Liebherr: Tonight the #Seleção welcomes the #Croatian team for the opening match of the #WorldCup2014 ! Who s your favorite? http://t.c…', positive
+'RT @Liebherr: Tonight the #Seleção welcomes the #Croatian team for the opening match of the #WorldCup2014 ! Who s your favorite? http://t.c…', positive
+'RT @Liebherr: Tonight the #Seleção welcomes the #Croatian team for the opening match of the #WorldCup2014 ! Who s your favorite? http://t.c…', positive
+'RT @OVVeterans: TY4RT s&MT s @10MillionMiler @susanWV309 @100pctAmerican @Liebherr @2013_therese Remember, you only have to succeed the las…', positive
+'@OVVeterans @10MillionMiler @100pctAmerican @Liebherr @2013_therese YVW! Have a great Thursday everyone! :-)', positive
+'RT @awrf: .@LH_Maritime has launched an intelligent grab for its mobile harbor cranes – SmartGrip http://t.co/Qm8LixVhTH http://t.co/Jmr71j…', positive
+'@LH_Maritime It worked. Thanks@@', positive
+'@LH_Maritime Great #WorldCup post so I shared it on my Social Stream! http://t.co/j3kaw1my53', positive
+'.@LH_Maritime has launched an intelligent grab for its mobile harbor cranes – SmartGrip http://t.co/Qm8LixVhTH http://t.co/Jmr71jSJBE', positive
+'@LH_Maritime Thats pretty cool. I would be in the washbay twice a day. #styling', positive
+'@LH_Maritime Happy Monday! Thanks for the RT', positive
+'RT @LH_Maritime: Good luck tonight, #Belgium #WorldCup ! This #liebherr A 924 is supporting you! #FifaWorldCup #Brazil http://t.co/cLhKz9M3…', positive
+'RT @LH_Maritime: Good luck tonight, #Belgium #WorldCup ! This #liebherr A 924 is supporting you! #FifaWorldCup #Brazil http://t.co/cLhKz9M3…', positive
+'RT @LH_Maritime: We wish all the best tonight! #Selecao #WorldCup #Brazil Tudo de bom hoje à noite #BrasilCroacia #liebherr #Croatia http:/…', positive
+'RT @LH_Maritime: We wish all the best tonight! #Selecao #WorldCup #Brazil Tudo de bom hoje à noite #BrasilCroacia #liebherr #Croatia http:/…', positive
+'RT @LH_Maritime: All the best to the #Netherlands tonight - #liebherr A 924 supports in #NetherlandsVsSpain #WorldCup #Brazil #oranje http:…', positive
+'RT @LH_Maritime: All the best to the #Netherlands tonight - #liebherr A 924 supports in #NetherlandsVsSpain #WorldCup #Brazil #oranje http:…', positive
+'RT @LH_Maritime: We wish all the best tonight! #Selecao #WorldCup #Brazil Tudo de bom hoje à noite #BrasilCroacia #liebherr #Croatia http:/…', positive
+'Intermat Blog. #Liebherr in 2013: #cranes and #buildings fare better than #earthmoving and #mining http://t.co/vJpXXKgY1t #intermatparis', positive
+'#Liebherr reports steady results; at €8.936B, 2013 turnover was just €126.6M (1.4%) lower than the figure for 2012 http://t.co/Fdc2hfBVwq', positive
+'Today s @FIFAWorldCup start with #SUI #ECU I m going with the Swiss as a show of support for #Liebherr family http://t.co/CsgWA6Waxn', positive
+'We are ready to roll! PR 734 #liebherr #dozer #bulldozer #heavyequipment365 #mining #quarry #heavyequipmentofficial http://t.co/OWjQfmpDNR', positive
+'This is where I have been spending my day. #cranes #liebherr http://t.co/fVN1n6BnDx', negative
+'Liebherr wins Turkish Ministry order: 130 bulldozers sold to water works directorate http://t.co/bNRlLzmCCR', positive
+'Tradesmen Jobs #ApplianceRepairs #Galway http://t.co/lFd16uuFcJ Various repairs.Liebherr freezer not reaching temp. Insinkerator jam..', negative
+'Liebherr in 2013: cranes and buildings fare better than earthmoving and mining. Read the article: http://t.co/xt8qbNvHrC', positive
+'I liked a @YouTube video http://t.co/4WdeyTbGmh Liebherr 974 PART 1/3', positive
+'Cranes boost Liebherr in 2013: Construction equipment manufacturer Liebherr reported total group turnover of €... http://t.co/juZFtjEZMD', positive
+'Cranes boost Liebherr in 2013: Construction equipment manufacturer Liebherr reported total group turnover of €... http://t.co/cb8RfXNSQE', positive
+'Signed the contract for two (2) Liebherr Tower Cranes, going to Liebherr Pamplona to see them on the 29th and 30th June 014', negative
+'Cranes go up but diggers are down for Liebherr: These divisions include maritime cranes, aerospace and transpo... http://t.co/NAapNfw5v5', negative
+'Cranes go up but diggers are down for Liebherr: These divisions include maritime cranes, aerospace and transpo... http://t.co/HFNllpq6AM', negative
+'Cranes boost Liebherr in 2013: Construction equipment manufacturer Liebherr reported total group turnover of €... http://t.co/qdmM5cgfdI', positive
+'Jan De Nul Group’s Backhoe dredger ‘Gian Lorenzo Bernini’ executing dredging works in the port of Zeebrugge...', positive
+'Fast approaching: Developed to prevent overloads while maximising turnover - SmartGrip. Stay tuned...', positive
+'Ladies and gentleman, At this year s Plus X Award, three Liebherr models have received the special ...', positive
+'At the Exhibit hall, #Liebherr will cover 10,000 square feet and will provide room a wide variety of...', positive
+'Well, that was an easy question, alright: Here you can check out the R 9800 and the R 996 B working ...', positive
+'Top of the rock: What a spectacular helicopter assembly right at the top of  Skalnaté Pleso  in Slovakia...', positive
+'Your Success is connected with your ACTIONS! +CranesY news every day for you friends! Happy People ...', positive
+'@xcalibercrane really impressive view - our friends and followers at @LH_Construction would be really interested in seeing this - thank you!', positive
+'@williamcunanan great picture - our friends and followers from @LH_Construction would love to see that for sure. Thank you!', positive
+'Another top match is on schedule today:  The Three Lions  vs.  La celeste ! Which Team is your favorite...', positive
+'Good luck tonight, Japan! This LH 40 is keeping its grab crossed for you! #WorldCup #Brazil 幸運今夜、日本...', positive
+'Good luck tonight, Japan! This LH 40 is keeping its grab crossed for you! #WorldCup #Brasil2014 #SamuraiBlue #Nippon http://t.co/1FSDr7KVT6', positive
+'The next top match:  The Three Lions  vs.  La celeste ! Which team will make it? #England or #Uruguay ? #Brasil2014 http://t.co/5sReVAs7tX', positive
+'Good luck tonight, Japan! This LH 40 is keeping its grab crossed for you! #WorldCup    #Brazil 幸運今夜...', positive
+'Liebherr R974C loading Caterpillar 773F', negative
+'Liebherr LTM 1030-2 Crane at Torquay Harbourside', negative
+'P&H 4100 Electric Wire Rope Shovel Loading Liebherr Dump Trucks', negative
+'Liebherr L586 Wheelloader Loading Semi Trucks', negative
+'RC Dozer Liebherr 734 and Excavator Teamwork', negative
+'RC ADVENTURES - How it Works - Liebherr 1:15 Scale Hydraulic Loader (PT 2)', positive
+'Liebherr LG 1750 Superstructure mounting 1 of 2', negative
+'Liebherr LG 1750 Superstructure mounting 2 of 2', negative
+'Bruder Liebherr Articulated Road Loader L 574.', negative
+'RT @LH_Construction: The next top match:  The Three Lions  vs.  La celeste ! Which team will make it? #England or #Uruguay ? #Brasil2014 h…', positive
+'RT @LH_Construction: The next top match:  The Three Lions  vs.  La celeste ! Which team will make it? #England or #Uruguay ? #Brasil2014 h…', positive
+'Liebherr L 900 Gear Hobber Heavy Duty High speed Machine For Sale', negative
+'#jsp by @xcalibercrane Beautiful day to be doing some basket work. #cranes #manitex #Liebherr #tadano http://t.co/lwifEGBupR', positive
+'Starting this week on board the big Liebherr excavator :) #excavator   #liebherr   #constructionequipment...', positive
+'The Liebherr MK88 mobile crane is one of the best at it s category, with maximum lifting capacity of...', positive
+'Cool looking Liebherr crane in center city Philadelphia', positive
+'The best selling Liebherr #crane  in #Australia  ', positive
+'Cranes lifting cranes #nbd #liebherr #teamheavylift', negative
+'HAPPINESS is...working with great people! Work with CranesY.com! Amazing pic of Liebherr Maritime.', positive
+'Conrad Liebherr T 264 Mining Truck by Cranes Etc TV', negative
+'@MiningGlobal @Liebherr @CatMining @HitachiCME I want one', negative
+'#Bigboytoys #crane #heavymachining #germanmuscle #liebherr', negative
+'#anotherdayinparadise #grue #grueatour #tower #towercrane #crane #cranelife #centreville #downtown #life #skyisthelimit #jaso #potain #liebherr #commensa #chum #montreal #hospital #foarm #work', positive
+'Liebherr 956 with sound', negative
+'Liebherr HS 895 HD Seilbagger in Demolition application. Great job.', positive
+'On top of the  Chäserugg  in Austria, our crane specialists have mounted a 130 EC-B 6 FR.tronic towe...', positive
+'RT @intermatparis: Intermat Blog. #Liebherr in 2013: #cranes and #buildings fare better than #earthmoving and #mining http://t.co/vJpXXKgY1…', positive
+'Ready to do some damage. Liebherr PR754 with ripper. #nice #big #amazing #perfect #like #liebherr #mining #quarry http://t.co/KujB54qL4I', positive
+'#Liebherr s annual report shows crane segments performed well thanks to #westerneurope growth http://t.co/HKZOvmg5en', positive
+'I liked a @YouTube video from @rcnordbauag http://t.co/PT7c7HxOcx Liebherr 956 with sound', positive
+'Good morning sayang, have a great day. Godbless 🙏☺ (lys mys 😘) (at Liebherr Indonesia Perkasa, PT) [pic] — https://t.co/ZPUa2npcR7', positive
+'INTERMAT Blog News Liebherr in 2013: cranes and buildings fare better than earthmoving and mining http://t.co/uYRuxkrcvY', positive
+'@Danel_Martinez it was probably a new liebherr with the Bluetooth remote, a nice touch but no side panel- if the remote breaks crane is down', positive
+'RT @One32toys: NZG 1/50 Scania L60 & Liebherr tower crane SSP £169 1 at just £69.99 Free UK Delivery http://t.co/XekHFD0Hi0 http://t.co/U26…', positive
+'NZG 1/50 Scania L60 & Liebherr tower crane SSP £169 1 at just £69.99 Free UK Delivery http://t.co/XekHFD0Hi0 http://t.co/U26ZNEiAQq', positive
+'RT @One32toys: NZG 1/50 Scania L60 & Liebherr tower crane SSP £169 1 at just £69.99 Free UK Delivery http://t.co/XekHFD0Hi0 http://t.co/U26…', positive
+'We break down the Top 10 Largest Mining Dump Trucks in the world. +Caterpillar Inc. +HitachiConstruction...', negative
+'#Liebherr #lb44 #construction #drilling #engineering #foundation #hydraulic #machinery #piling #rig #rotary', negative
+'#Liebherr #construction #drilling #engineering #foundation #hydraulic #machinery #piling #rig #rotary', negative
+'DANIS LIEBHERR 944 SUPPORT CATERPILLAR 963b WELS 2014', positive
+'Farming Simulator 2013 - Liebherr LTM 1030 and WSK 125 Motorcycle - Mod Squad', negative
+'Jesper showing us, how to load semi trucks, with his Liebherr wheelloader :) #wheelloader   #liebherr...', positive
+'Do you know which crane is the most popular Liebherr s crane in Turkey? It s the The 132 EC-H 8! The...', positive
+'New post (Liebherr cranes work at Third Bosphorus Bridge) has been published on The Building News', positive
+'Four #Liebherr ship to shore container cranes (STS) working a container vessel. The cranes, manufactured...', negative
+'Four Ship to shore cranes (STS) for Transnet Port Terminals in South Africa! Back in 2012, already two...', negative
+'#Liebherr #construction #drilling #engineering #foundation #hydraulic #machinery #piling #rig #rotary', negative
+'#Liebherr #construction #drilling #engineering #foundation #hydraulic #machinery #piling #rig #rotary', negative
+'Liebherr LH22 material handler in waste paper application', negative
+'Liebherr R954C Excavator Loading Volvo A35 Dumpers', negative
+'New in stock, a 1998 Liebherr LTM1040/1. 8,1m fly jib, sparewheel, 99.000km and 11.500 hours for a very good price! http://t.co/E0JrA9V23m', positive
+'#volvo#construction#machinery#liebherr', negative
+'Hello yow maching drilling machine ?', negative
+'Costa Rica vs. Italy! What an exciting match we get to see tonight! The R 916 will support Costa Ri...', positive
+'Costa Rica vs. Italy! What an exciting match we get to see tonight! The R 916 will support Costa Rica...', positive
+'Good luck to both soccer teams from  #Switzerland and  #France   tonight! What s your tip? Who will...', positive
+'Go  Classic  with an R 916. http://t.co/puVKd9jnUS #diecast #Liebherr http://t.co/fhkPsbGCID', positive
+'We are locking forward seeing a great game tonight, #Italy #Italia. #WorldCup #Brazil. This L 566 wi...', positive
+'Forza, Italia! We are locking forward seeing a great game tonight! This L 566 will support you during...', positive
+'@LH_Maritime @Liebherr if you get me there I d love to! @makesmoresense', positive
+'Good luck to both soccer teams from #Switzerland and #France tonight! What s your tip? Who will suc...', positive
+'Farming Simulator 2013 - Liebherr Wrecking Ball and Depanneuse Camo Truck - Mod Squad', negative
+'RT @JobSitePics: #jsp by @xcalibercrane Beautiful day to be doing some basket work. #cranes #manitex #Liebherr #tadano http://t.co/lwifEGB…', positive
+'@LH_Maritime @Liebherr Love to have a look around, but can t make that date.', positive
+'Liebherr vinothek - yours larruping agree provisionally bricky library: YxhmadnNK', negative
+'Fin de stage! Merci le R4! 10 semaines au top #Liebherr #Colmar #alsace #france #totoughtotame #builttolast #builttough #placement #stage #dut #mechanicalengineering #picoftheday #instagood #instamood #instachoice', positive
+'Liebherr R964C Excavator With GPS Loading Volvo A35 Dumpers', negative
+'A Liebherr Betomat V 1010 mixing tower has recently been commissioned at Alfons Greten GmbH & Co. KG...', negative
+'Ending this week in company with the big Liebherr excavator :)', positive
+'@RPA_Media @Liebherr @hillheadshow Good..... is not what I m expecting! #fantastic #demolition #kit more like it! !', positive
+'Wish I could send you a snap of our new @Liebherr #demolition spec machine. I don t even get to see it before the press do @hillheadshow', negative
+'RT @MarkColeman71: Wish I could send you a snap of our new @Liebherr #demolition spec machine. I don t even get to see it before the press …', negative
+'RT @MarkColeman71: Wish I could send you a snap of our new @Liebherr #demolition spec machine. I don t even get to see it before the press …', negative
+'@MarkColeman71 @Liebherr @hillheadshow it looks good!!!!', positive
+'@RPA_Media @Liebherr @hillheadshow now your just winding me up! ;-)', positive
+'@MarkColeman71 @Liebherr @hillheadshow I ll be there early on Tuesday to get some good photos of it', positive
+'RT @Excav8: @RPA_Media @MarkColeman71 @Liebherr @hillheadshow She does look smart Mark! #secretsnaps ;)', positive
+'@MorrowEquipment @Liebherr Back on 2.13.14 I captured this fun shot using one of your #cranes #mypage #MyPhotography https://t.co/8H6xgoLemX', positive
+'@RPA_Media @MarkColeman71 @Liebherr @hillheadshow She does look smart Mark! #secretsnaps ;)', positive
+'#Liebherr #construction #drilling #engineering #foundation #hydraulic #machinery #piling #rig #rotary #jobsite', negative
+'#Liebherr #construction #drilling #engineering #foundation #hydraulic #machinery #piling #rig #rotary #jobsite', negative
+'Little foggy out tonight. #liebherr #crane #scrapyard #heavyequipment #magnetsbitch #fog #silenthill', negative
+'On top of the  Chässerugg  in Switzerland, our crane specialists have mounted a 130 EC-B 6 FR.tronic...', positive
+'Good luck to the soccer team from Ghana in their match tonight! #Ghana    #Brazil2014   #WorldCup  ...', positive
+'@MorrowEquipment great shot, @DaGr8Brendinni !', positive
+'@GrantWardle156 @Liebherr Too bad, maybe another time Grant Wardle!', negative
+'The enviable view of the crane operator.', positive
+'The job is done and the crane ready to operate!', positive
+'@Liebherr Thank you very much. Creativity with the moon is fun.', positive
+'Just another day!! #crane#liebherr#265ton', negative
+'#liebherr ...75 tons', negative
+'The 40 m long jib right on its way.', positive
+'Liebherr - handout the superman without end distribution on attachments conjunction filter inward the numerousness: mDdlFjvMP', negative
+'#fitness #calisthenics #me #bagger #liebherr #fun #jump', positive
+'Good luck to the soccer team from Ghana in their match tonight! #Ghana #Brazil #WorldCup #Liebherr #...', positive
+'On top of the  Chässerugg  in Switzerland, our crane specialists have mounted a 130 EC-B 6 FR.tronic...', positive
+'Anybody know what this liebherr 914 compact is used for? http://t.co/5pa8z53Yfb', positive
+'#sunderland #wearmouth #wear #liebherr #stadiumoflight #SoL #june #summer #WHPsolstice', negative
+'RT @JoeS1989: Anybody know what this liebherr 914 compact is used for? http://t.co/5pa8z53Yfb', positive
+'On top of the  Chässerugg , our crane specialists have mounted a 130 EC-B 6 FR.tronic tower crane wi...', positive
+'An international airport is currently being built on St. Helena. The island s seclusion is only one ...', negative
+'Liebherr Golf Day Tournament, last tournament before fasting...', negative
+'RT @DamienFahey:  Would you like to open a tab?   Sure. I d love to forget my credit card here and have an extra errand to do tomorrow. ', positive
+'We re only a few weeks out until the 2014  #conexpo  opens, and our workers and mechanics have been ...', negative
+'@themanmoe Great!', positive
+'All the best to the Russian Soccer Team tonight! This PR 764 will help you to pave the way! #WorldCup...', positive
+'Welcome to todays match: #Belgium  vs. #Russia  ! Good luck to both teams! #Brasil2014   #Liebherr ...', positive
+'RT @mignomania: Good news that Lallana didn t make a good WC. Maybe now the Saints realise that he s no fucking Ronaldo. Get real, Liebherr.', positive
+'@TicWhite that s good learn all you can then come down here I ll teach you a liebherr', positive
+'Liebherr LR 13000: Tallest crawler crane in the world', negative
+'RT @CranesEtc: Go  Classic  with an R 916. http://t.co/puVKd9jnUS #diecast #Liebherr http://t.co/fhkPsbGCID', positive
+'All the best to the Russian Soccer Team tonight! #WorldCup #Brazil #Russia #Sbornaja. This PR 764 wi...', positive
+'Welcome to todays match: #Belgium vs. #Russia ! Good luck to both teams! #Brasil2014 #Liebherr ...', positive
+'LIEBHERR Nenzing the factory 2010', negative
+'LIEBHERR R946 Mining white', negative
+'Liebherr R964C loading MB Actros dump truck', negative
+'Liebherr Crane Fails Uphill Climb Goes Off Edge', negative
+'Liebherr Mr. Torque the LB 44 rotary drilling rig', negative
+'Membreys Kenworth K200 and unloading Liebherr LTM 1350', negative
+'Liebherr - LR 13000: Tallest crawler crane in the world', negative
+'Liebherr Excavator climbing tower', negative
+'liebherr 9100 et cat 773g eiffage', negative
+'Liebherr Crane Mobile Customer Days 2012 large.wmv', negative
+'Liebherr LB36 DRILL on highway construction site, A8, Karlsbad, GERMANY. 2013', negative
+'Liebherr R950SME loading topsoil', negative
+'Liebherr LRB Series Piling & Drilling rigs for deep foundation', negative
+'Liebherr R918, R920 and R922 crawler excavator', negative
+'Liebherr Mining Truck T 264 at Expomin 2014', negative
+'Liebherr BRPR 754 Litronic Conveyor Shifter', negative
+'All the best to the Russian Soccer Team tonight! This PR 764 will help you to pave the way! #WorldCup...', positive
+'Welcome to todays match: #Belgium  vs. #Russia  ! Good luck to both teams! #Brasil2014   #Liebherr ...', positive
+'Farming Simulator 2013 Liebherr LTM 1030 and WSK 125 Motorcycle Mod Squad', negative
+'Extreme Machines: Liebherr P 995 Pontoon XXL Marine Excavator', negative
+'LIEBHERR Kranmobile aus 5000t Stahl LIEBHERR mobile crane from 5000t steel', negative
+'Liebherr R964C loading MB Actros dump truck', negative
+'Liebherr MK100/110, 10x8x10, 8t, [PfeiferMachinery.com]', negative
+'Liebherr MTC 78000 Heavy Lift Offshore Crane', negative
+'Liebherr 974B and Caterpillar 769D from cab', negative
+'Biggest Truck in the World Liebherr T282B | Extreme Trucks', negative
+'RT @JobSitePics: #jsp by @xcalibercrane Beautiful day to be doing some basket work. #cranes #manitex #Liebherr #tadano http://t.co/lwifEGB…', positive
+'After a great start, the US Team today will be facing #Portugal! What do you think? Will the #Socce...', positive
+'Bruder Toys Liebherr Power Shovel Excavator #02426', negative
+'Liebherr 630 EC-H 40 tower crane assembly with short jib', negative
+'LIEBHERR Nenzing the factory 2010', negative
+'Liebherr 200EC-H climbing up', negative
+'Liebherr 900cv2 Mod for Farming Simulator 2013', negative
+'The new  Construction Simulator 2014  is available now! Drive a Liebherr excavator, operate a Liebherr...', positive
+'#pic5 Site progress: 2025 Terry #Seattle #mycity #myphoto @balfourbeatty @MorrowEquipment @Liebherr First level done. http://t.co/9xbJASV7UJ', positive
+'The Liebherr LTM 1500 all-terrain mobile crane . Firma SCHOT te Alkmaar', negative
+'Liebherr - tower cranes for wind power systems', negative
+'NZG Liebherr LHM 500 Mobile Harbour Crane  Wallmann  by Cranes Etc TV', negative
+'Liebherr - Installation work of a LTC 1045-3.1 Mobile Crane in Carcassonne, France', positive
+'NZG Liebherr R 916 Crawler Excavator  Gubbels  /  Brodbeck  by Cranes Etc TV', negative
+'We break down the Top 10 Largest Mining Dump Trucks in the world. +Caterpillar Inc. +HitachiConstruction...', negative
+'We break down the Top 10 Largest Mining Dump Trucks in the world. +Caterpillar Inc. +HitachiConstruction...', negative
+'RT @toyotahater: @StephenKing should try his hand at Non-Fiction, he is starting to believe his story lines... #2A @gunpolicy @combs_brand…', negative
+'Don t underestimate another people 😊 #quotetoday (with Emma at Liebherr Indonesia Perkasa, PT) — https://t.co/JDAoCSx9HB', negative
+'RT @CranesEtc: Go  Classic  with an R 916. http://t.co/puVKd9jnUS #diecast #Liebherr http://t.co/fhkPsbGCID', positive
+'#file #download LIEBHERR R308 R310 R321 EXCAVATOR SERVICE MANUAL http://t.co/SRCltX2TJ4', negative
+'The heavy haulage and crane divisions working together to load and transport a helicopter. #nqgroup #heavyhaulage #cranes #heavyhaulageaustralia #wideload #oversize #heavyload #kenworth #helicopter #liebherr #biglift #truckporn #bigrig #transport', negative
+'@DTony7 Great to hear that, Tony Delaney - Keep up the good work!', positive
+'Spectacular #construction #project on Saint Helena : http://t.co/iLr6E5n6OJ #Liebherr #crawler #crane', positive
+'RT @LH_Construction: Spectacular #construction #project on Saint Helena : http://t.co/iLr6E5n6OJ #Liebherr #crawler #crane', positive
+'#work #scraplife #scrap #liebherr', negative
+'Assistência técnica Geladeira duplex wolf gaggenau liebherr wolf viking 114119 5924', negative
+'Just another day in Oilberta!!!!!! #Cranes #liebherr #tadano #rigmoving #dacapacrane http://t.co/duKjZBSMJe', negative
+'Liebherr R964C HD front shovel loading blasted granite', negative
+'Assistência técnica Fogão Bertazzoni lofra tecno ge monogram wolf viking whirlpool liebherr kitchena', negative
+'#work #hard #rain #sexmachine #money #after #work #bigmavhine #liebherr #love #this #work', positive
+'RT @LH_Maritime: The latest edition of #Liebherr Maritime Cranes #newsletter with #SmartGrip, Training and #TOCEurope #innovation #TOC http…', positive
+'VIDEO: Rolling a 66-tonne Liebherr excavator down a dirt road on a flat-bed truck http://t.co/ukIbmThDhO', negative
+'Check out this Crane s Etc Product Review of NZG s #891-01 Brodbeck - Liebherr R916 Classic Litronic...', positive
+'Check out this Crane s Etc Product Review of NZG s #891-01 Brodbeck - Liebherr R916 Classic Litronic Tracked... http://t.co/6lDZmWlz7W', positive
+'Good luck to the soccer team from Ghana in their match tonight! #Ghana    #Brazil2014   #WorldCup  ...', positive
+'Cool!RT @LH_Construction: http://t.co/uiU5dKQyAu #Liebherr #crawler #crane #aftermarket #consulting #parts #apps', positive
+'@CranesEtc Product Review: NZG s Liebherr R916 Classic Litronic Tracked Excavator http://t.co/gSUgoaFl9l Order at: http://t.co/ZROvtLKZFh', positive
+'Assistência técnica Fogão Bertazzoni lofra tecno ge monogram wolf viking whirlpool liebherr kitchena', negative
+'Liebherr vinothek - yours entirely avow lugana library edition: vMEmZGOsK', negative
+'Not really good 😌😓 (at Liebherr Indonesia Perkasa, PT) [pic] — https://t.co/3BLAwZMK2Y', positive
+'CONRAD MODELLE LIEBHERR R-984 HYDRAULIC EXCAVATOR 1/50 CONSTRUCTION REPLICA - Full read by eBay: Price 79.0 USD... http://t.co/HeyW8o0CDZ', negative
+'Liebherr Snow ploughs working', negative
+'Windpark Action #liebherr #crane #work #selfie #birkenfeld', positive
+'#Liebherr reports steady results; at €8.936B, 2013 turnover was just €126.6M (1.4%) lower than the figure for 2012 http://t.co/4LJzhKJdtj', positive
+'Hydraquip s engin', negative

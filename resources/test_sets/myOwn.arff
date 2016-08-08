@@ -1,0 +1,8 @@
+@relation myrel
+
+@attribute text STRING
+@attribute sentimentClassAttribute {positive, negative}
+
+@data
+'Liebherr Ship to Shore in Southampton',?
+'Port of Long Beach',?
