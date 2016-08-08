@@ -22,9 +22,28 @@ public class Processor {
 		
 		SentimentAnalyser analyser = new SentimentAnalyser(main_folder, useSlidingWindowForTraining, test_dataset);
 		
+		/*
 		for (int i=0; i<lt.size(); i++){
 			System.out.println(analyser.getPolarity(lt.get(i)));	// any text may be passed as an argument here
 			//System.out.println(i+"\t"+out);
+		}
+		*/
+		
+		// test case
+		LinkedList<String> ltc = new LinkedList<String>();
+
+		ltc.add("Pokemon Go Surpasses 100 Million Downloads On Google Play");
+		ltc.add("I JUST HATCHED A 5K EGG AND THIS IS WHAT WAS INSIDE, I AM SO ANGRY #PokemonGO");
+		ltc.add("Disappointed with both evolutions #PokemonGO #TeamMystic");
+		ltc.add("Twitch Is Now Helping #PokémonGO Catch All the Cheaters http://www.themarysue.com/twitch-pokemon-go-cheating-crackdown/");
+		ltc.add("Hang in there, trainers! Many reports are coming in that the servers are offline. #PokemonGO");
+		ltc.add("20-year-old baseball star was killed Saturday night while Playing #PokemonGo. http://l.gamespot.com/6018B07wA");
+		ltc.add("I CAUGHT THEM ALL NOW WHAT DO I DO WITH MY LIFE?! #PokemonGO");
+		ltc.add("Through the drama we made it to 3.3k I love each and every one of you #PokemonGO");
+		ltc.add("Giving away 30,200 Coins to 3 random people who Retweet and Follow @TrendsTube_ ! Ends in 24 hours! Good luck! #PokemonGO");
+		
+		for (int i=0; i < ltc.size(); i++){
+			System.out.println(analyser.getPolarity(ltc.get(i)));	// any text may be passed as an argument here
 		}
 	}
 	

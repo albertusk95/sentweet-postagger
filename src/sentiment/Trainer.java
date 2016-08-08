@@ -12,6 +12,7 @@ import org.apache.commons.collections4.bidimap.DualHashBidiMap;
 
 import weka.classifiers.Classifier;
 import weka.classifiers.bayes.NaiveBayesMultinomial;
+import weka.classifiers.evaluation.Evaluation;
 import weka.classifiers.functions.LibSVM;
 import weka.core.Instances;
 import weka.core.converters.ArffSaver;
@@ -108,6 +109,41 @@ public class Trainer {
 		return cba;
 	}
 	
+	// experiment code
+	public void evaluateLexicon() {
+		System.out.println("evaluateLexicon");
+		
+		DataSource dsR;
+		Instances dataR = null;
+		try {
+			//dsR = new DataSource(folder+"train/0L.arff");
+			dsR = new DataSource(folder+"train/mylex.arff");
+			
+			dataR =  dsR.getDataSet();
+			System.out.println("dataset for lexicon loaded");
+		} catch (Exception e) {
+			System.out.println("Lexicon training file not found.");
+		}
+		dataR.setClassIndex(6);
+		
+		LibSVM lexcls;
+		
+		try {
+			lexcls = (LibSVM) weka.core.SerializationHelper.read(folder+"/models/lexicon.model");
+			System.out.println("model read");
+			Evaluation eTest = new Evaluation(dataR);
+			eTest.evaluateModel(lexcls, dataR);
+	        String strSummary = eTest.toSummaryString();
+	        System.out.println(strSummary);
+			System.out.println("Status OK");
+		} catch (Exception e) {
+			e.printStackTrace();
+			System.out.println("exception lexcls or eTest");
+		}
+	}
+	// end of experiment code
+	
+	
 	/**Training on the lexicon-based representation. Saves the model in
 	 * order to use it on the provided test sets. The rest of the model
 	 * representation forms will be created on-the-fly because of the 
@@ -129,11 +165,11 @@ public class Trainer {
 			System.out.println("Lexicon training file not found.");
 		}
 		data.setClassIndex(6);
-		//Classifier cls = (Classifier)new LibSVM();
+		Classifier cls = (Classifier)new LibSVM();
 
 		// exp code
-		LibSVM cls = new LibSVM();
-		cls.setShrinking(true);
+		//LibSVM cls = new LibSVM();
+		//cls.setShrinking(true);
 		// end of exp code
 		
 		try {

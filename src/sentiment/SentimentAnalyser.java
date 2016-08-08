@@ -52,7 +52,10 @@ public class SentimentAnalyser {
 		
 		// re-build the lexicon model based on Weka 3.8
 		//tr.trainLexicon();
-				
+		
+		// evaluate lexicon model
+		//tr.evaluateLexicon();
+		
 		pc = new PolarityClassifier(main_folder, tr.getTextAttributes(), tr.getFeatureAttributes(), tr.getComplexAttributes());
 		System.out.println("object pc created");
 		
@@ -109,8 +112,8 @@ public class SentimentAnalyser {
 		String dataset = tp.startProc();
 		Instances[] all = tp.getAllInstances();
 		String out = pc.test(dataset, all);
-		//if (useSlidingWindow == true){
-		if (useSlidingWindow == false){
+		if (useSlidingWindow == true){
+		//if (useSlidingWindow == false){
 			if (out.contains("pos") || out.contains("neg")){	//if HC and LC agree ("positive"/"negative"), then put this document in the training set			
 				double[] instanceValues = new double[train.numAttributes()];
 		        instanceValues[0] = train.attribute(0).addStringValue(tweet);
@@ -128,8 +131,9 @@ public class SentimentAnalyser {
 				else
 					out = "positive (random)";
 			}
-		} else{		// if useSlidingWindow is set to "true", then use the model
-			if (out.contains("pos") || out.contains("neg")){
+		} else {		// if useSlidingWindow is set to "true", then use the model
+			if (out.contains("pos") || out.contains("neg")) {
+				//System.out.println("use false");
 				return out;
 			} else{
 				out = clarifyOnModel(tweet);
