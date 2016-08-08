@@ -11,4 +11,8 @@
 > * LibSVM
 > * libsvm
 
+### Others
+----------------
+VM Argument: -Xmx2048m
+
 It is recommended to install the libsvm via Weka package manager (via **Tools** on Weka GUI) so that the compatibility of libsvm is guaranteed. 
