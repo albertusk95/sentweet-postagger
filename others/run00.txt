@@ -1,0 +1,2613 @@
+getData: Liebherr
+object tr created
+trainLexicon started
+dataset for lexicon loaded
+building classifier
+...........................................................................................................................................
+WARNING: using -h 0 may be faster
+.........................
+WARNING: using -h 0 may be faster
+*.................
+WARNING: using -h 0 may be faster
+*.......
+WARNING: using -h 0 may be faster
+*.
+WARNING: using -h 0 may be faster
+*
+optimization finished, #iter = 188239
+nu = 0.7172027848964933
+obj = -173157.20653887335, rho = 0.5054287127878756
+nSV = 174203, nBSV = 173750
+Total nSV = 174203
+classifier built
+training lexicon done
+PC ctor
+InitializeClassifier done
+object pc created
+Reading POS tagger model from resources/datasets/wsj-0-18-left3words-distsim.tagger ... done [12.5 sec].
+object tp created
+initializeFilter done
+negative
+negative
+light negative
+light negative
+positive
+light negative
+negative
+positive
+positive
+positive
+light negative
+light positive
+positive
+light negative
+positive
+light negative
+light positive
+positive
+light positive
+light negative
+positive
+light positive
+positive
+light positive
+negative
+positive
+light negative
+light positive
+positive
+positive
+light positive
+positive
+positive
+light negative
+positive
+positive
+light positive
+light positive
+positive
+light positive
+light positive
+light positive
+light positive
+light negative
+light positive
+light positive
+light positive
+positive
+positive
+positive
+light positive
+positive
+light positive
+positive
+positive
+light positive
+light positive
+light positive
+light positive
+negative
+light negative
+light negative
+light negative
+positive
+light positive
+light positive
+light positive
+light positive
+light positive
+light positive
+negative
+negative
+light negative
+positive
+positive
+positive
+light negative
+light positive
+light positive
+positive
+light positive
+light positive
+positive
+positive
+light positive
+light positive
+positive
+light positive
+positive
+light positive
+positive
+positive
+light positive
+positive
+positive
+positive
+light positive
+positive
+positive
+light positive
+positive
+light positive
+light positive
+light positive
+positive
+positive
+positive
+light positive
+positive
+positive
+positive
+positive
+light positive
+light negative
+light positive
+positive
+positive
+positive
+positive
+positive
+light positive
+positive
+positive
+light positive
+negative
+light negative
+light positive
+positive
+positive
+positive
+light positive
+positive
+positive
+light positive
+light positive
+positive
+positive
+positive
+positive
+light positive
+positive
+positive
+positive
+positive
+light negative
+positive
+light positive
+light positive
+positive
+positive
+positive
+positive
+positive
+light negative
+positive
+positive
+positive
+light positive
+light positive
+negative
+positive
+positive
+positive
+positive
+positive
+light negative
+light positive
+light positive
+light positive
+light positive
+light positive
+light positive
+positive
+positive
+positive
+light positive
+positive
+light positive
+positive
+positive
+light positive
+light positive
+positive
+positive
+light positive
+light positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+light positive
+positive
+light positive
+positive
+positive
+positive
+positive
+positive
+light positive
+light positive
+positive
+positive
+positive
+positive
+positive
+positive
+negative
+positive
+positive
+negative
+positive
+light positive
+light positive
+light negative
+light positive
+negative
+negative
+light positive
+negative
+light positive
+positive
+light positive
+light positive
+negative
+light positive
+negative
+positive
+positive
+light negative
+positive
+positive
+positive
+positive
+positive
+negative
+positive
+positive
+light negative
+light negative
+light positive
+light positive
+positive
+negative
+positive
+light positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+light positive
+positive
+positive
+positive
+positive
+positive
+light positive
+light positive
+positive
+light positive
+positive
+light positive
+light positive
+light positive
+light positive
+positive
+positive
+positive
+light positive
+light positive
+light positive
+positive
+positive
+light negative
+light negative
+positive
+positive
+positive
+positive
+positive
+light negative
+light positive
+light positive
+negative
+negative
+positive
+negative
+light positive
+positive
+light positive
+negative
+positive
+negative
+light positive
+positive
+negative
+light positive
+negative
+positive
+light positive
+positive
+light negative
+negative
+positive
+light negative
+positive
+light positive
+positive
+light positive
+negative
+light positive
+negative
+positive
+positive
+positive
+negative
+negative
+negative
+light positive
+light positive
+light positive
+light negative
+light positive
+positive
+light positive
+light positive
+light negative
+light positive
+negative
+light positive
+negative
+light positive
+negative
+positive
+negative
+light positive
+negative
+positive
+positive
+negative
+positive
+negative
+positive
+light positive
+positive
+light positive
+negative
+negative
+positive
+negative
+light positive
+negative
+light positive
+positive
+positive
+light positive
+positive
+positive
+positive
+light positive
+positive
+light positive
+light negative
+positive
+light positive
+negative
+positive
+light positive
+negative
+negative
+negative
+light positive
+light positive
+light positive
+negative
+positive
+positive
+negative
+negative
+negative
+positive
+negative
+light positive
+light negative
+light positive
+light negative
+light positive
+negative
+light negative
+light positive
+light positive
+positive
+positive
+positive
+positive
+light negative
+positive
+light positive
+positive
+positive
+light positive
+light positive
+positive
+light negative
+light negative
+light positive
+negative
+light positive
+positive
+negative
+positive
+positive
+positive
+positive
+light positive
+negative
+positive
+positive
+light positive
+positive
+light positive
+light negative
+positive
+negative
+positive
+positive
+positive
+positive
+positive
+light negative
+positive
+light positive
+negative
+positive
+positive
+light positive
+light positive
+light positive
+positive
+negative
+light positive
+positive
+positive
+positive
+light positive
+light positive
+light positive
+positive
+positive
+light positive
+light positive
+light positive
+light positive
+light positive
+positive
+negative
+light positive
+light positive
+light negative
+light negative
+positive
+positive
+positive
+positive
+positive
+light positive
+negative
+light negative
+negative
+negative
+light negative
+light positive
+negative
+negative
+negative
+light positive
+negative
+negative
+light positive
+negative
+light positive
+negative
+light positive
+light negative
+positive
+light positive
+positive
+positive
+positive
+positive
+light positive
+positive
+positive
+positive
+positive
+positive
+positive
+light positive
+negative
+light negative
+positive
+light positive
+positive
+light positive
+negative
+light positive
+light positive
+positive
+positive
+positive
+positive
+positive
+light negative
+light positive
+light negative
+light positive
+positive
+light positive
+light negative
+light positive
+light negative
+light positive
+positive
+light negative
+positive
+light positive
+light positive
+light positive
+negative
+light positive
+positive
+positive
+positive
+positive
+positive
+positive
+negative
+light positive
+light positive
+positive
+positive
+positive
+light positive
+light positive
+positive
+positive
+light positive
+negative
+positive
+light positive
+light positive
+light positive
+positive
+positive
+light positive
+positive
+light positive
+positive
+light positive
+light positive
+positive
+positive
+light positive
+positive
+positive
+positive
+light positive
+positive
+light positive
+light positive
+light positive
+positive
+positive
+light positive
+light positive
+light positive
+positive
+light positive
+positive
+light positive
+light positive
+positive
+positive
+positive
+positive
+positive
+positive
+light positive
+positive
+positive
+light negative
+light positive
+light positive
+positive
+positive
+light negative
+light positive
+light negative
+light positive
+light positive
+positive
+positive
+positive
+negative
+light positive
+negative
+positive
+light negative
+positive
+positive
+light positive
+light positive
+negative
+negative
+light positive
+light positive
+light positive
+positive
+light positive
+positive
+light positive
+light positive
+negative
+light negative
+positive
+positive
+positive
+light positive
+positive
+positive
+positive
+light positive
+positive
+light positive
+positive
+negative
+positive
+light positive
+light positive
+light positive
+light positive
+positive
+positive
+positive
+light positive
+positive
+positive
+negative
+light positive
+light positive
+positive
+light positive
+positive
+light negative
+light positive
+positive
+positive
+positive
+light positive
+light positive
+positive
+positive
+positive
+positive
+positive
+light positive
+positive
+light positive
+light positive
+positive
+positive
+negative
+light negative
+positive
+light positive
+positive
+light positive
+light positive
+light negative
+positive
+light positive
+light positive
+light positive
+positive
+negative
+negative
+light positive
+light positive
+light positive
+light positive
+light positive
+positive
+positive
+light positive
+positive
+light negative
+positive
+positive
+light negative
+light positive
+light positive
+light positive
+positive
+light positive
+light positive
+light positive
+light positive
+positive
+light positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+light positive
+light positive
+positive
+light positive
+light positive
+positive
+light negative
+negative
+light negative
+negative
+positive
+negative
+positive
+light negative
+light negative
+positive
+positive
+positive
+light positive
+positive
+positive
+positive
+positive
+light positive
+light positive
+positive
+light positive
+light positive
+positive
+light positive
+positive
+light positive
+light negative
+positive
+light positive
+light positive
+negative
+light positive
+light negative
+positive
+positive
+light positive
+light positive
+light positive
+positive
+positive
+positive
+light negative
+light positive
+negative
+light positive
+light positive
+light positive
+positive
+light positive
+light positive
+light positive
+negative
+light positive
+light positive
+negative
+negative
+positive
+positive
+positive
+light positive
+positive
+light positive
+positive
+positive
+positive
+positive
+light positive
+light negative
+light positive
+positive
+positive
+positive
+positive
+positive
+positive
+light negative
+negative
+light negative
+positive
+light positive
+light positive
+positive
+positive
+positive
+positive
+positive
+light negative
+light positive
+light negative
+positive
+positive
+light positive
+light negative
+positive
+positive
+light positive
+light positive
+positive
+positive
+light positive
+negative
+light positive
+light negative
+positive
+light positive
+light negative
+positive
+light positive
+light positive
+negative
+negative
+light positive
+light positive
+light positive
+light positive
+light negative
+positive
+negative
+positive
+light positive
+positive
+light positive
+positive
+light positive
+light positive
+positive
+negative
+light positive
+positive
+positive
+light positive
+positive
+positive
+positive
+light positive
+negative
+positive
+negative
+positive
+positive
+light positive
+light positive
+negative
+negative
+positive
+positive
+light negative
+light positive
+light negative
+positive
+light negative
+positive
+positive
+positive
+light positive
+positive
+positive
+light negative
+light positive
+light positive
+light negative
+negative
+light positive
+positive
+light negative
+light positive
+light negative
+light positive
+light positive
+positive
+positive
+light positive
+light positive
+positive
+light negative
+positive
+negative
+negative
+positive
+light positive
+light positive
+light positive
+negative
+light positive
+light positive
+positive
+positive
+light positive
+positive
+positive
+positive
+light positive
+light positive
+light positive
+positive
+light negative
+light positive
+negative
+positive
+light positive
+light positive
+positive
+negative
+positive
+light positive
+positive
+positive
+light positive
+positive
+positive
+positive
+light positive
+light positive
+positive
+positive
+positive
+negative
+light positive
+positive
+positive
+positive
+positive
+light positive
+light positive
+light positive
+light positive
+light positive
+light positive
+light positive
+light positive
+light positive
+positive
+positive
+positive
+negative
+positive
+positive
+positive
+negative
+positive
+light positive
+positive
+positive
+positive
+light negative
+negative
+light negative
+light positive
+light positive
+positive
+light negative
+light positive
+light positive
+light positive
+negative
+positive
+positive
+positive
+positive
+light positive
+negative
+light positive
+negative
+light positive
+light positive
+light positive
+light positive
+light positive
+light positive
+positive
+negative
+negative
+positive
+positive
+positive
+light negative
+negative
+light positive
+light positive
+light positive
+negative
+negative
+light positive
+light positive
+positive
+light positive
+positive
+positive
+positive
+light positive
+light positive
+negative
+light positive
+light positive
+light positive
+positive
+light positive
+light negative
+light positive
+light positive
+light negative
+light positive
+positive
+light positive
+negative
+negative
+light positive
+positive
+positive
+light positive
+light negative
+positive
+light positive
+light positive
+light negative
+light negative
+light positive
+negative
+negative
+light negative
+light positive
+light positive
+light positive
+positive
+negative
+light negative
+positive
+positive
+positive
+positive
+light positive
+negative
+positive
+positive
+light positive
+light positive
+positive
+positive
+positive
+negative
+positive
+positive
+positive
+positive
+positive
+positive
+light positive
+positive
+positive
+positive
+light negative
+light negative
+negative
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+light negative
+light negative
+negative
+light negative
+light positive
+negative
+negative
+negative
+light positive
+light negative
+positive
+negative
+negative
+negative
+light negative
+light negative
+positive
+light positive
+positive
+positive
+negative
+light positive
+positive
+light negative
+positive
+positive
+positive
+positive
+light positive
+light positive
+positive
+negative
+negative
+light negative
+light negative
+positive
+positive
+light negative
+light positive
+positive
+light positive
+light positive
+light positive
+light positive
+positive
+light positive
+light negative
+negative
+light negative
+negative
+positive
+positive
+negative
+negative
+light positive
+light positive
+positive
+positive
+light positive
+light positive
+negative
+light positive
+light positive
+light positive
+light positive
+light negative
+light positive
+light positive
+light positive
+positive
+light negative
+light positive
+positive
+light negative
+light positive
+negative
+light negative
+positive
+negative
+light positive
+light positive
+light positive
+negative
+negative
+light positive
+positive
+negative
+positive
+negative
+positive
+light negative
+negative
+light positive
+negative
+positive
+positive
+light positive
+light positive
+positive
+light positive
+positive
+light positive
+positive
+light negative
+positive
+positive
+light positive
+positive
+positive
+positive
+light positive
+negative
+negative
+positive
+positive
+positive
+light negative
+positive
+positive
+positive
+positive
+negative
+negative
+positive
+light positive
+light negative
+light positive
+positive
+light positive
+positive
+positive
+negative
+negative
+light positive
+light positive
+light positive
+light positive
+light positive
+negative
+light negative
+positive
+light positive
+light positive
+light negative
+light positive
+light negative
+light negative
+light negative
+positive
+light negative
+positive
+negative
+light positive
+positive
+light positive
+light positive
+positive
+light positive
+positive
+light positive
+positive
+light positive
+light positive
+light positive
+light positive
+light positive
+positive
+positive
+negative
+negative
+light positive
+negative
+light positive
+positive
+light positive
+light positive
+light positive
+light negative
+light positive
+light positive
+light positive
+positive
+light positive
+negative
+negative
+light positive
+light positive
+light positive
+light positive
+negative
+negative
+negative
+light negative
+light negative
+positive
+negative
+negative
+negative
+negative
+positive
+positive
+positive
+light positive
+light positive
+light positive
+light positive
+positive
+light positive
+positive
+light negative
+light negative
+light positive
+light positive
+light positive
+light negative
+negative
+light positive
+light positive
+positive
+positive
+light positive
+positive
+light negative
+positive
+light positive
+light positive
+positive
+positive
+light positive
+negative
+positive
+light positive
+negative
+negative
+negative
+negative
+negative
+light positive
+light negative
+light negative
+light negative
+light positive
+light positive
+light positive
+positive
+positive
+negative
+negative
+positive
+positive
+positive
+positive
+positive
+positive
+negative
+negative
+positive
+positive
+positive
+light positive
+light positive
+light positive
+positive
+positive
+positive
+light positive
+light positive
+light negative
+light negative
+light negative
+positive
+positive
+negative
+negative
+negative
+positive
+light positive
+negative
+light negative
+positive
+positive
+negative
+light positive
+positive
+light negative
+light positive
+negative
+light positive
+light positive
+light positive
+positive
+positive
+positive
+positive
+positive
+light positive
+light positive
+light positive
+light positive
+light negative
+negative
+positive
+light positive
+light positive
+positive
+positive
+light positive
+light positive
+positive
+positive
+light positive
+positive
+positive
+light positive
+negative
+light positive
+light positive
+negative
+positive
+positive
+light positive
+light negative
+light positive
+light negative
+positive
+positive
+light positive
+positive
+positive
+light positive
+positive
+light negative
+positive
+positive
+negative
+positive
+positive
+light negative
+light positive
+light positive
+negative
+positive
+light positive
+positive
+negative
+negative
+negative
+positive
+positive
+negative
+light positive
+light positive
+light positive
+light positive
+light positive
+light negative
+light negative
+light positive
+light positive
+positive
+positive
+light positive
+light positive
+positive
+negative
+positive
+light negative
+positive
+positive
+positive
+light negative
+positive
+light negative
+positive
+light negative
+light negative
+light positive
+positive
+negative
+light positive
+light positive
+light negative
+negative
+light negative
+positive
+light positive
+light negative
+light positive
+light positive
+positive
+light positive
+positive
+light positive
+light positive
+negative
+light positive
+negative
+negative
+positive
+light positive
+light positive
+light positive
+positive
+positive
+positive
+negative
+negative
+negative
+light positive
+positive
+light negative
+light positive
+light positive
+light negative
+positive
+positive
+positive
+light positive
+light negative
+light negative
+light positive
+positive
+negative
+light positive
+light positive
+positive
+light positive
+light positive
+light positive
+light negative
+negative
+light positive
+negative
+positive
+light positive
+light positive
+positive
+light negative
+positive
+positive
+positive
+positive
+light positive
+positive
+positive
+light negative
+light positive
+positive
+negative
+positive
+positive
+positive
+positive
+positive
+positive
+light positive
+light positive
+negative
+positive
+positive
+positive
+negative
+light positive
+negative
+positive
+light positive
+positive
+positive
+light positive
+light positive
+positive
+light positive
+negative
+positive
+positive
+positive
+light positive
+positive
+light positive
+light positive
+positive
+light positive
+light positive
+light positive
+light negative
+light positive
+negative
+negative
+positive
+negative
+light positive
+light positive
+light positive
+negative
+negative
+positive
+negative
+positive
+negative
+light negative
+positive
+light positive
+light positive
+negative
+negative
+light positive
+positive
+positive
+positive
+negative
+positive
+light positive
+light positive
+light positive
+light positive
+positive
+negative
+light positive
+positive
+negative
+negative
+light negative
+negative
+light negative
+light positive
+light negative
+positive
+light positive
+positive
+light positive
+light positive
+light positive
+positive
+negative
+positive
+light positive
+negative
+light positive
+negative
+positive
+negative
+light positive
+light positive
+light positive
+positive
+positive
+light positive
+positive
+positive
+light positive
+light negative
+positive
+light positive
+light negative
+positive
+positive
+negative
+negative
+light positive
+positive
+negative
+positive
+light negative
+positive
+light positive
+light negative
+positive
+positive
+positive
+positive
+light negative
+light positive
+light positive
+negative
+positive
+positive
+light positive
+light negative
+light positive
+positive
+light negative
+light positive
+negative
+positive
+light positive
+negative
+negative
+positive
+positive
+light positive
+negative
+light negative
+light positive
+light negative
+light positive
+positive
+light positive
+light positive
+positive
+positive
+light positive
+light negative
+negative
+negative
+light positive
+positive
+light positive
+negative
+light positive
+light positive
+light negative
+negative
+positive
+negative
+light positive
+light positive
+positive
+negative
+negative
+light negative
+positive
+light negative
+positive
+light positive
+light positive
+positive
+light positive
+light positive
+positive
+light positive
+positive
+light positive
+negative
+light positive
+light positive
+negative
+light positive
+light positive
+negative
+light positive
+positive
+light positive
+positive
+light positive
+positive
+light negative
+positive
+light positive
+light positive
+light positive
+light positive
+light positive
+light positive
+positive
+positive
+light positive
+light positive
+negative
+positive
+positive
+light positive
+negative
+positive
+negative
+negative
+negative
+negative
+light positive
+light positive
+light positive
+positive
+positive
+positive
+light positive
+light positive
+positive
+light positive
+positive
+positive
+negative
+positive
+positive
+positive
+negative
+light positive
+light positive
+light positive
+light positive
+positive
+positive
+positive
+negative
+positive
+positive
+positive
+positive
+light positive
+negative
+positive
+positive
+positive
+light positive
+negative
+light positive
+positive
+positive
+positive
+positive
+positive
+negative
+positive
+light positive
+positive
+light positive
+light positive
+light positive
+positive
+light positive
+positive
+light positive
+light negative
+positive
+positive
+positive
+light positive
+positive
+positive
+negative
+positive
+light positive
+light positive
+negative
+light negative
+light positive
+light negative
+positive
+positive
+light positive
+negative
+negative
+light positive
+positive
+negative
+negative
+positive
+light positive
+light positive
+light negative
+positive
+light negative
+positive
+negative
+positive
+light negative
+light positive
+light negative
+light positive
+positive
+light positive
+negative
+positive
+light positive
+light positive
+negative
+positive
+light positive
+light positive
+negative
+light negative
+negative
+light positive
+light positive
+light positive
+light positive
+light positive
+light positive
+light negative
+positive
+positive
+positive
+light positive
+positive
+positive
+light positive
+light positive
+positive
+positive
+positive
+light negative
+light positive
+light positive
+negative
+negative
+positive
+negative
+negative
+positive
+positive
+light negative
+light positive
+positive
+light negative
+positive
+negative
+light negative
+positive
+light positive
+light positive
+negative
+light positive
+positive
+positive
+light positive
+light positive
+positive
+negative
+positive
+light positive
+negative
+light positive
+positive
+light positive
+negative
+positive
+light positive
+negative
+positive
+positive
+light positive
+positive
+light negative
+positive
+light positive
+negative
+light positive
+light negative
+positive
+light positive
+light positive
+light negative
+negative
+light negative
+light negative
+light negative
+light positive
+positive
+positive
+positive
+positive
+light positive
+positive
+light positive
+positive
+light positive
+light positive
+light positive
+positive
+negative
+positive
+light positive
+light positive
+negative
+positive
+positive
+light positive
+positive
+negative
+positive
+negative
+positive
+light positive
+negative
+positive
+light negative
+light negative
+light positive
+light positive
+negative
+light positive
+negative
+positive
+positive
+positive
+light positive
+light positive
+negative
+positive
+light positive
+positive
+positive
+light positive
+positive
+negative
+light negative
+negative
+negative
+light positive
+light negative
+light positive
+positive
+negative
+negative
+negative
+positive
+negative
+negative
+positive
+light positive
+light positive
+light positive
+light positive
+light positive
+positive
+positive
+light positive
+positive
+light positive
+positive
+negative
+positive
+light positive
+light positive
+light positive
+light positive
+light positive
+light negative
+light negative
+positive
+positive
+negative
+negative
+positive
+negative
+positive
+positive
+negative
+positive
+positive
+negative
+positive
+positive
+light negative
+light positive
+positive
+negative
+positive
+positive
+positive
+positive
+light positive
+light positive
+positive
+positive
+light positive
+light negative
+light positive
+negative
+negative
+negative
+positive
+light positive
+light negative
+positive
+light negative
+positive
+negative
+negative
+positive
+positive
+positive
+positive
+positive
+light positive
+light positive
+light positive
+positive
+light negative
+positive
+positive
+light positive
+positive
+positive
+positive
+negative
+positive
+light negative
+light positive
+light positive
+positive
+negative
+light positive
+light positive
+light positive
+light positive
+negative
+light positive
+negative
+positive
+light positive
+negative
+positive
+negative
+light positive
+positive
+positive
+light positive
+light positive
+positive
+positive
+positive
+light positive
+light positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+light positive
+positive
+light positive
+light positive
+light positive
+light positive
+positive
+light positive
+light positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+light positive
+positive
+positive
+positive
+light positive
+positive
+negative
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+light positive
+light positive
+light positive
+light positive
+light positive
+light positive
+light positive
+light positive
+light positive
+light negative
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+light negative
+positive
+positive
+positive
+light positive
+light negative
+positive
+positive
+positive
+light negative
+light positive
+light negative
+light positive
+light positive
+positive
+light negative
+light positive
+light positive
+light positive
+positive
+light positive
+light positive
+positive
+light positive
+positive
+negative
+light positive
+light negative
+light negative
+positive
+negative
+light positive
+light positive
+positive
+light positive
+light positive
+positive
+light positive
+light negative
+light positive
+positive
+positive
+negative
+negative
+negative
+positive
+positive
+positive
+positive
+positive
+positive
+light negative
+positive
+positive
+light positive
+light positive
+positive
+positive
+light positive
+positive
+positive
+positive
+light positive
+positive
+positive
+light positive
+light positive
+negative
+negative
+light negative
+light negative
+negative
+light positive
+light negative
+negative
+negative
+positive
+negative
+negative
+negative
+light positive
+positive
+positive
+light positive
+light positive
+light positive
+negative
+positive
+light positive
+light positive
+positive
+light positive
+positive
+positive
+positive
+negative
+light positive
+positive
+negative
+light positive
+light positive
+negative
+light negative
+light positive
+light negative
+light negative
+negative
+light positive
+positive
+light negative
+negative
+positive
+positive
+light negative
+light positive
+positive
+positive
+light positive
+light positive
+positive
+light positive
+light positive
+light positive
+light positive
+light positive
+light negative
+light positive
+light positive
+light positive
+light positive
+light positive
+light positive
+light positive
+light positive
+light positive
+positive
+positive
+positive
+positive
+light positive
+positive
+positive
+positive
+negative
+light positive
+light positive
+negative
+negative
+positive
+negative
+light positive
+positive
+positive
+light positive
+positive
+light positive
+negative
+light positive
+light positive
+negative
+negative
+negative
+light positive
+negative
+light positive
+negative
+light positive
+light positive
+light positive
+light positive
+positive
+light positive
+negative
+light negative
+light positive
+light negative
+light negative
+negative
+positive
+positive
+positive
+positive
+light positive
+light positive
+light positive
+light positive
+light positive
+light positive
+light positive
+light positive
+light positive
+positive
+positive
+light positive
+light positive
+light positive
+positive
+positive
+negative
+positive
+light positive
+positive
+light positive
+light positive
+light positive
+light positive
+negative
+light negative
+light positive
+positive
+negative
+negative
+positive
+light positive
+positive
+negative
+negative
+negative
+positive
+positive
+positive
+light positive
+light positive
+light positive
+positive
+positive
+positive
+light positive
+light negative
+negative
+negative
+negative
+light positive
+light positive
+light positive
+light positive
+positive
+positive
+light positive
+positive
+negative
+positive
+positive
+positive
+light positive
+negative
+negative
+light positive
+light positive
+positive
+negative
+positive
+light negative
+positive
+light positive
+light positive
+light positive
+positive
+positive
+negative
+positive
+light negative
+positive
+negative
+light negative
+negative
+light positive
+light positive
+positive
+light positive
+negative
+positive
+light negative
+positive
+positive
+positive
+positive
+light positive
+negative
+light negative
+positive
+positive
+positive
+light positive
+negative
+negative
+negative
+negative
+negative
+negative
+light positive
+light negative
+negative
+light negative
+negative
+light positive
+negative
+negative
+negative
+negative
+negative
+light positive
+negative
+negative
+negative
+light positive
+positive
+positive
+light positive
+light positive
+negative
+negative
+negative
+negative
+light positive
+negative
+light positive
+negative
+light positive
+negative
+light positive
+negative
+light positive
+positive
+positive
+light negative
+light positive
+negative
+light negative
+light positive
+negative
+negative
+negative
+light positive
+light positive
+light positive
+negative
+positive
+light positive
+light positive
+positive
+negative
+negative
+light positive
+negative
+positive
+negative
+light positive
+light negative
+light positive
+negative
+negative
+light negative
+light negative
+light positive
+light negative
+negative
+light positive
+light positive
+negative
+light positive
+positive
+light negative
+negative
+light positive
+light positive
+light positive
+light positive
+light positive
+negative
+positive
+positive
+positive
+light positive
+negative
+light positive
+light negative
+light positive
+light negative
+light positive
+light positive
+light positive
+negative
+light positive
+light positive
+light positive
+negative
+negative
+negative
+positive
+light positive
+light positive
+light negative
+light positive
+light positive
+light positive
+light positive
+positive
+negative
+light positive
+positive
+light negative
+light positive
+positive
+light positive
+positive
+positive
+positive
+negative
+negative
+light negative
+positive
+light positive
+light positive
+negative
+light positive
+negative
+positive
+positive
+negative
